@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" fx:controller="sample.Controllers.statisticsFormController" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane prefHeight="403.0" prefWidth="150.0" style="-fx-background-color: gray;" />
+      <Button fx:id="showdataBtn" layoutX="300.0" layoutY="177.0" mnemonicParsing="false" onAction="#showData" prefHeight="25.0" prefWidth="111.0" text="Show data" />
+   </children>
+</AnchorPane>

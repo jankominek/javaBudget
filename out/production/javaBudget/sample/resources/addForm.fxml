@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.addFormController">
+   <children>
+      <TextField fx:id="month" layoutX="226.0" layoutY="175.0" promptText="month" />
+      <TextField fx:id="day" layoutX="226.0" layoutY="144.0" promptText="day" />
+      <Label layoutX="191.0" layoutY="80.0" text="Add new record">
+         <font>
+            <Font name="Arial Narrow" size="38.0" />
+         </font>
+      </Label>
+      <TextField fx:id="year" layoutX="226.0" layoutY="207.0" promptText="year" />
+      <TextField fx:id="income" layoutX="226.0" layoutY="240.0" promptText="income" />
+      <TextField fx:id="expense" layoutX="226.0" layoutY="274.0" promptText="expense" />
+      <Button fx:id="addBtn" layoutX="275.0" layoutY="312.0" mnemonicParsing="false" onAction="#add" text="Add" />
+      <Button fx:id="backBtn" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#back" text="Back" />
+   </children>
+</AnchorPane>
