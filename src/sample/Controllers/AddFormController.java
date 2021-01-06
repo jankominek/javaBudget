@@ -8,7 +8,7 @@ import sample.ObjectToAdd;
 
 import java.util.List;
 
-public class addFormController {
+public class AddFormController {
 
     @FXML Button addBtn, backBtn;
     @FXML TextField day, month, year, income, expense;
@@ -27,7 +27,8 @@ public class addFormController {
         habitant.addToList(obj);
     }
 
-    public void back(){
-
+    public void back() throws Exception {
+        BackToMainWindowController backToMainWindowController = new BackToMainWindowController();
+        backToMainWindowController.backToMainWindow(backBtn);
     }
 }

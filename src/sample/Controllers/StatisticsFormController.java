@@ -11,10 +11,10 @@ import sample.ObjectToAdd;
 
 import java.util.List;
 
-public class statisticsFormController {
+public class StatisticsFormController {
 
     @FXML
-    Button showdataBtn;
+    Button showdataBtn, backBtn;
 
     Habitant habitant = new Habitant();
 
@@ -26,5 +26,9 @@ public class statisticsFormController {
 //
 //        Stage window = (Stage) showdataBtn.getScene().getWindow();
 //        window.setScene(new Scene(showdataRoot));
+    }
+    public void back() throws Exception {
+        BackToMainWindowController backToMainWindowController = new BackToMainWindowController();
+        backToMainWindowController.backToMainWindow(backBtn);
     }
 }

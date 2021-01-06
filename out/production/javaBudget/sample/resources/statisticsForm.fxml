@@ -4,9 +4,12 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.Pane?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" fx:controller="sample.Controllers.statisticsFormController" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.StatisticsFormController">
    <children>
-      <Pane prefHeight="403.0" prefWidth="150.0" style="-fx-background-color: gray;" />
+      <Pane prefHeight="403.0" prefWidth="150.0" style="-fx-background-color: gray;">
+         <children>
+            <Button fx:id="backBtn" layoutX="18.0" layoutY="14.0" mnemonicParsing="false" onAction="#back" text="Back" />
+         </children></Pane>
       <Button fx:id="showdataBtn" layoutX="300.0" layoutY="177.0" mnemonicParsing="false" onAction="#showData" prefHeight="25.0" prefWidth="111.0" text="Show data" />
    </children>
 </AnchorPane>
