@@ -26,7 +26,7 @@
    <children>
       <Button fx:id="statisticsBtn" mnemonicParsing="false" onAction="#showStatisticsField" prefHeight="42.0" prefWidth="91.0" text="Statistics" GridPane.columnIndex="1" GridPane.rowIndex="2" />
       <Button fx:id="addBtn" mnemonicParsing="false" onAction="#showAddField" prefHeight="42.0" prefWidth="85.0" text="Add" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-      <Button fx:id="generateBtn" mnemonicParsing="false" prefHeight="42.0" prefWidth="114.0" text="Generate data" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+      <Button fx:id="generateDataBtn" mnemonicParsing="false" onAction="#showGenerateField" prefHeight="42.0" prefWidth="114.0" text="Generate data" GridPane.columnIndex="5" GridPane.rowIndex="2" />
       <Button fx:id="compareBtn" mnemonicParsing="false" prefHeight="42.0" prefWidth="112.0" text="Compare Months" GridPane.columnIndex="3" GridPane.rowIndex="2" />
       <Button fx:id="shinexBtn" mnemonicParsing="false" prefHeight="42.0" prefWidth="85.0" text="show in\ex" GridPane.columnIndex="4" GridPane.rowIndex="2" />
       <Label alignment="CENTER" prefHeight="17.0" prefWidth="111.0" text="User name" GridPane.columnIndex="3" GridPane.rowIndex="1">

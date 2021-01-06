@@ -7,13 +7,17 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
+import sample.Habitant;
 
 public class MainWindowController {
 
     @FXML
-    Button statisticsBtn, addBtn;
+    Button statisticsBtn, addBtn, generateDataBtn;
+
+    Habitant habitant = new Habitant();
 
     public void showStatisticsField(ActionEvent event) throws Exception{
+
         Parent statisticsRoot = FXMLLoader.load(getClass().getResource("../resources/statisticsForm.fxml"));
 
         Stage window = (Stage) statisticsBtn.getScene().getWindow();
@@ -24,6 +28,13 @@ public class MainWindowController {
 
         Stage window = (Stage) addBtn.getScene().getWindow();
         window.setScene(new Scene(addRoot));
+    }
+
+    public void showGenerateField(ActionEvent event) throws Exception{
+        Parent generateRoot = FXMLLoader.load(getClass().getResource("../resources/generateData.fxml"));
+
+        Stage window = (Stage) generateDataBtn.getScene().getWindow();
+        window.setScene(new Scene(generateRoot));
     }
 
 }

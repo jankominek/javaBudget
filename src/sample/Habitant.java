@@ -1,6 +1,7 @@
 package sample;
 
 import com.google.gson.Gson;
+import sample.helpers.CreateExampleData;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +34,10 @@ public class Habitant{
             ObjectToAdd obj = new ObjectToAdd(i+1,i+1,i+1,i+1,i+1);
             list.add(obj);
         }
+    }
+    public void createExampleData(int dataRange, int yearRange, int incomeRange, int expenseRange){
+        CreateExampleData createExampleData = new CreateExampleData();
+        list  = createExampleData.createData(dataRange, yearRange, incomeRange, expenseRange);
     }
     public void addToList(ObjectToAdd obj){
         list.add(obj);

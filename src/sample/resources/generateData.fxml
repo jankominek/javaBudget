@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.GenerateDataController">
+   <children>
+      <VBox layoutX="239.0" layoutY="134.0" prefHeight="132.0" prefWidth="100.0" spacing="10.0">
+         <children>
+            <TextField fx:id="dataRangeBtn" promptText="data range" />
+            <TextField fx:id="yearRange" promptText="year range" />
+            <TextField fx:id="incomeRangeBtn" promptText="income range" />
+            <TextField fx:id="expenseRangeBtn" promptText="expense range" />
+         </children>
+      </VBox>
+      <Label layoutX="214.0" layoutY="83.0" text="Generate data">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="generateBtn" layoutX="257.0" layoutY="278.0" mnemonicParsing="false" onAction="#generate" text="generate" />
+      <Button fx:id="backBtn" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#back" text="Back" />
+   </children>
+</AnchorPane>

@@ -27,7 +27,7 @@ public class Main extends Application {
     public static void main(String[] args) {
 
         launch(args);
-        Habitant habitant = new Habitant("A", "B", 20, 'C');
+        //Habitant habitant = new Habitant();
 
 
     }
