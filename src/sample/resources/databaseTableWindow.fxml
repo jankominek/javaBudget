@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.DatabaseTableWindowController">
+   <children>
+      <ScrollPane prefHeight="406.0" prefWidth="600.0">
+         <content>
+            <TableView fx:id="tableviewId" blendMode="EXCLUSION" prefHeight="404.0" prefWidth="598.0">
+              <columns>
+                <TableColumn fx:id="dateId" prefWidth="150.0" text="DATE" />
+                  <TableColumn fx:id="incomeId" prefWidth="116.0" text="INCOME" />
+                  <TableColumn fx:id="expenseId" prefWidth="141.0" text="EXPENSE" />
+                  <TableColumn fx:id="dateAddedId" prefWidth="176.0" text="DATE ADDED" />
+              </columns>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </TableView>
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

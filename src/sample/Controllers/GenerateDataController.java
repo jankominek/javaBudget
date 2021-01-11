@@ -3,7 +3,9 @@ package sample.Controllers;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
-import sample.Habitant;
+import sample.helpers.CreateExampleData;
+import sample.model.Habitant;
+import sample.model.Model;
 
 public class GenerateDataController {
 
@@ -15,14 +17,13 @@ public class GenerateDataController {
 
     public void generate() throws Exception{
         System.out.println("generate button");
-
-        habitant.createExampleData(
+        CreateExampleData createExampleData = new CreateExampleData();
+        createExampleData.createData(
                 Integer.parseInt(dataRangeBtn.getText()),
                 Integer.parseInt(yearRangeBtn.getText()),
                 Integer.parseInt(incomeRangeBtn.getText()),
                 Integer.parseInt(expenseRangeBtn.getText())
         );
-
     }
     public void back() throws Exception {
         BackToMainWindowController backToMainWindowController = new BackToMainWindowController();

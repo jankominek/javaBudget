@@ -7,21 +7,31 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
-import sample.Habitant;
+import sample.model.Habitant;
+import sample.model.Model;
+
+import java.io.IOException;
 
 public class MainWindowController {
 
     @FXML
-    Button statisticsBtn, addBtn, generateDataBtn;
+    Button statisticsBtn, addBtn, generateDataBtn, tableBtn;
 
     Habitant habitant = new Habitant();
 
     public void showStatisticsField(ActionEvent event) throws Exception{
 
-        Parent statisticsRoot = FXMLLoader.load(getClass().getResource("../resources/statisticsForm.fxml"));
+        Model.getInstance().readDataFromFile();
+        //Model.getInstance().getList();
 
+        Parent statisticsRoot = FXMLLoader.load(getClass().getResource("../resources/statisticsForm.fxml"));
         Stage window = (Stage) statisticsBtn.getScene().getWindow();
         window.setScene(new Scene(statisticsRoot));
+    }
+    public void showTable() throws IOException {
+        Parent tableViewRoot = FXMLLoader.load(getClass().getResource("../resources/databaseTableWindow.fxml"));
+        Stage window = (Stage) tableBtn.getScene().getWindow();
+        window.setScene(new Scene(tableViewRoot));
     }
     public void showAddField(ActionEvent event) throws Exception{
         Parent addRoot = FXMLLoader.load(getClass().getResource("../resources/addForm.fxml"));
@@ -32,7 +42,6 @@ public class MainWindowController {
 
     public void showGenerateField(ActionEvent event) throws Exception{
         Parent generateRoot = FXMLLoader.load(getClass().getResource("../resources/generateData.fxml"));
-
         Stage window = (Stage) generateDataBtn.getScene().getWindow();
         window.setScene(new Scene(generateRoot));
     }

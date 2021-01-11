@@ -1,7 +1,11 @@
 package sample.helpers;
 
-import sample.ObjectToAdd;
+import sample.model.Database;
+import sample.model.Model;
+import sample.model.ObjectToAdd;
+import sample.model.User;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -14,7 +18,8 @@ public class CreateExampleData {
 
     }
 
-    public List<ObjectToAdd> createData(int dataRange, int yearRange, int incomeRange, int expenseRange){
+    public void createData(int dataRange, int yearRange, int incomeRange, int expenseRange) throws IOException {
+
         List<ObjectToAdd> list = new ArrayList<ObjectToAdd>();
         ObjectToAdd obj;
         int day, month, year, income, expense;
@@ -30,7 +35,8 @@ public class CreateExampleData {
             list.add(obj);
         }
 
-        return list;
+        Model.getInstance().createExampleDataForUser(list);
+
     }
 
 

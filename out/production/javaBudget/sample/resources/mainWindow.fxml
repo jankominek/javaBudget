@@ -34,5 +34,6 @@
             <Font name="Berlin Sans FB Demi Bold" size="21.0" />
          </font>
       </Label>
+      <Button fx:id="tableBtn" mnemonicParsing="false" onAction="#showTable" text="table" GridPane.columnIndex="3" GridPane.rowIndex="3" />
    </children>
 </GridPane>

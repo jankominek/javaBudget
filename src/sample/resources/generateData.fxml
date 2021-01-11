@@ -12,7 +12,7 @@
       <VBox layoutX="239.0" layoutY="134.0" prefHeight="132.0" prefWidth="100.0" spacing="10.0">
          <children>
             <TextField fx:id="dataRangeBtn" promptText="data range" />
-            <TextField fx:id="yearRange" promptText="year range" />
+            <TextField fx:id="yearRangeBtn" promptText="year range" />
             <TextField fx:id="incomeRangeBtn" promptText="income range" />
             <TextField fx:id="expenseRangeBtn" promptText="expense range" />
          </children>

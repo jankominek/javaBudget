@@ -1,0 +1,8027 @@
+{
+  "usersObjects": {
+    "a": {
+      "treeMapUserData": {
+        "2020-01-01": {
+          "day": 1,
+          "month": 1,
+          "year": 2021,
+          "income": 200,
+          "expense": 200,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2021,
+          "income": 100,
+          "expense": 100,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2021,
+          "income": 150,
+          "expense": 150,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2021,
+          "income": 300,
+          "expense": 300,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-07": {
+          "day": 7,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-08": {
+          "day": 8,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-09": {
+          "day": 9,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-10": {
+          "day": 10,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-11": {
+          "day": 11,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-12": {
+          "day": 12,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-13": {
+          "day": 13,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-14": {
+          "day": 14,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-15": {
+          "day": 15,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-16": {
+          "day": 16,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-17": {
+          "day": 17,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-18": {
+          "day": 18,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-19": {
+          "day": 19,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-20": {
+          "day": 20,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-21": {
+          "day": 21,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-22": {
+          "day": 22,
+          "month": 1,
+          "year": 2021,
+          "income": 50,
+          "expense": 50,
+          "dateAdded": "2021-01-11"
+        }
+      },
+      "login": "a",
+      "password": "a"
+    },
+    "t": {
+      "treeMapUserData": {
+        "2017-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2017,
+          "income": 721,
+          "expense": 1769,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-05": {
+          "day": 5,
+          "month": 1,
+          "year": 2017,
+          "income": 3363,
+          "expense": 3865,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2017,
+          "income": 1782,
+          "expense": 341,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-07": {
+          "day": 7,
+          "month": 1,
+          "year": 2017,
+          "income": 984,
+          "expense": 2169,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-10": {
+          "day": 10,
+          "month": 1,
+          "year": 2017,
+          "income": 3018,
+          "expense": 2396,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-14": {
+          "day": 14,
+          "month": 1,
+          "year": 2017,
+          "income": 3859,
+          "expense": 755,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-17": {
+          "day": 17,
+          "month": 1,
+          "year": 2017,
+          "income": 6677,
+          "expense": 11779,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-19": {
+          "day": 19,
+          "month": 1,
+          "year": 2017,
+          "income": 1344,
+          "expense": 3888,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-20": {
+          "day": 20,
+          "month": 1,
+          "year": 2017,
+          "income": 414,
+          "expense": 420,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-23": {
+          "day": 23,
+          "month": 1,
+          "year": 2017,
+          "income": 5078,
+          "expense": 2192,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-01-28": {
+          "day": 28,
+          "month": 1,
+          "year": 2017,
+          "income": 314,
+          "expense": 1929,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-32": {
+          "day": 1,
+          "month": 2,
+          "year": 2017,
+          "income": 2609,
+          "expense": 9161,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-33": {
+          "day": 2,
+          "month": 2,
+          "year": 2017,
+          "income": 1912,
+          "expense": 1527,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-34": {
+          "day": 3,
+          "month": 2,
+          "year": 2017,
+          "income": 11416,
+          "expense": 2888,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-35": {
+          "day": 4,
+          "month": 2,
+          "year": 2017,
+          "income": 3840,
+          "expense": 1183,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-36": {
+          "day": 5,
+          "month": 2,
+          "year": 2017,
+          "income": 131,
+          "expense": 4396,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-39": {
+          "day": 8,
+          "month": 2,
+          "year": 2017,
+          "income": 3954,
+          "expense": 1854,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-43": {
+          "day": 12,
+          "month": 2,
+          "year": 2017,
+          "income": 2626,
+          "expense": 2586,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-45": {
+          "day": 14,
+          "month": 2,
+          "year": 2017,
+          "income": 10819,
+          "expense": 6722,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-47": {
+          "day": 16,
+          "month": 2,
+          "year": 2017,
+          "income": 3734,
+          "expense": 5586,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-48": {
+          "day": 17,
+          "month": 2,
+          "year": 2017,
+          "income": 3133,
+          "expense": 1297,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-49": {
+          "day": 18,
+          "month": 2,
+          "year": 2017,
+          "income": 6886,
+          "expense": 4835,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-53": {
+          "day": 22,
+          "month": 2,
+          "year": 2017,
+          "income": 3254,
+          "expense": 565,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-54": {
+          "day": 23,
+          "month": 2,
+          "year": 2017,
+          "income": 1999,
+          "expense": 2521,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-55": {
+          "day": 24,
+          "month": 2,
+          "year": 2017,
+          "income": 2051,
+          "expense": 2127,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-56": {
+          "day": 25,
+          "month": 2,
+          "year": 2017,
+          "income": 462,
+          "expense": 3803,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-57": {
+          "day": 26,
+          "month": 2,
+          "year": 2017,
+          "income": 3088,
+          "expense": 4920,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-58": {
+          "day": 27,
+          "month": 2,
+          "year": 2017,
+          "income": 4983,
+          "expense": 3116,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-64": {
+          "day": 5,
+          "month": 3,
+          "year": 2017,
+          "income": 382,
+          "expense": 4175,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-65": {
+          "day": 6,
+          "month": 3,
+          "year": 2017,
+          "income": 4045,
+          "expense": 496,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-73": {
+          "day": 14,
+          "month": 3,
+          "year": 2017,
+          "income": 7356,
+          "expense": 5290,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-74": {
+          "day": 15,
+          "month": 3,
+          "year": 2017,
+          "income": 2003,
+          "expense": 208,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-75": {
+          "day": 16,
+          "month": 3,
+          "year": 2017,
+          "income": 2572,
+          "expense": 4005,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-77": {
+          "day": 18,
+          "month": 3,
+          "year": 2017,
+          "income": 864,
+          "expense": 1736,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-79": {
+          "day": 20,
+          "month": 3,
+          "year": 2017,
+          "income": 4699,
+          "expense": 1903,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-82": {
+          "day": 23,
+          "month": 3,
+          "year": 2017,
+          "income": 3473,
+          "expense": 4869,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-84": {
+          "day": 25,
+          "month": 3,
+          "year": 2017,
+          "income": 3947,
+          "expense": 2736,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-86": {
+          "day": 27,
+          "month": 3,
+          "year": 2017,
+          "income": 785,
+          "expense": 3960,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-87": {
+          "day": 28,
+          "month": 3,
+          "year": 2017,
+          "income": 2816,
+          "expense": 1509,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-101": {
+          "day": 11,
+          "month": 4,
+          "year": 2017,
+          "income": 2510,
+          "expense": 2201,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-103": {
+          "day": 13,
+          "month": 4,
+          "year": 2017,
+          "income": 272,
+          "expense": 2572,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-104": {
+          "day": 14,
+          "month": 4,
+          "year": 2017,
+          "income": 4337,
+          "expense": 3961,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-105": {
+          "day": 15,
+          "month": 4,
+          "year": 2017,
+          "income": 2673,
+          "expense": 1398,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-106": {
+          "day": 16,
+          "month": 4,
+          "year": 2017,
+          "income": 2850,
+          "expense": 2021,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-107": {
+          "day": 17,
+          "month": 4,
+          "year": 2017,
+          "income": 1751,
+          "expense": 165,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-113": {
+          "day": 23,
+          "month": 4,
+          "year": 2017,
+          "income": 8836,
+          "expense": 7964,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-114": {
+          "day": 24,
+          "month": 4,
+          "year": 2017,
+          "income": 4778,
+          "expense": 7196,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-116": {
+          "day": 26,
+          "month": 4,
+          "year": 2017,
+          "income": 3017,
+          "expense": 2900,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-94": {
+          "day": 4,
+          "month": 4,
+          "year": 2017,
+          "income": 3844,
+          "expense": 7945,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-96": {
+          "day": 6,
+          "month": 4,
+          "year": 2017,
+          "income": 3323,
+          "expense": 6694,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-97": {
+          "day": 7,
+          "month": 4,
+          "year": 2017,
+          "income": 896,
+          "expense": 4242,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-121": {
+          "day": 1,
+          "month": 5,
+          "year": 2017,
+          "income": 6557,
+          "expense": 5438,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-124": {
+          "day": 4,
+          "month": 5,
+          "year": 2017,
+          "income": 3671,
+          "expense": 3166,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-125": {
+          "day": 5,
+          "month": 5,
+          "year": 2017,
+          "income": 7357,
+          "expense": 4464,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-131": {
+          "day": 11,
+          "month": 5,
+          "year": 2017,
+          "income": 14016,
+          "expense": 11193,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-132": {
+          "day": 12,
+          "month": 5,
+          "year": 2017,
+          "income": 601,
+          "expense": 3595,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-133": {
+          "day": 13,
+          "month": 5,
+          "year": 2017,
+          "income": 2169,
+          "expense": 3073,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-135": {
+          "day": 15,
+          "month": 5,
+          "year": 2017,
+          "income": 423,
+          "expense": 1012,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-138": {
+          "day": 18,
+          "month": 5,
+          "year": 2017,
+          "income": 3812,
+          "expense": 3373,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-141": {
+          "day": 21,
+          "month": 5,
+          "year": 2017,
+          "income": 270,
+          "expense": 4904,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-144": {
+          "day": 24,
+          "month": 5,
+          "year": 2017,
+          "income": 6209,
+          "expense": 2507,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-145": {
+          "day": 25,
+          "month": 5,
+          "year": 2017,
+          "income": 5438,
+          "expense": 2211,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-147": {
+          "day": 27,
+          "month": 5,
+          "year": 2017,
+          "income": 1439,
+          "expense": 3959,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-148": {
+          "day": 28,
+          "month": 5,
+          "year": 2017,
+          "income": 3099,
+          "expense": 2800,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-149": {
+          "day": 29,
+          "month": 5,
+          "year": 2017,
+          "income": 5905,
+          "expense": 6086,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-05-150": {
+          "day": 30,
+          "month": 5,
+          "year": 2017,
+          "income": 4574,
+          "expense": 3665,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-152": {
+          "day": 1,
+          "month": 6,
+          "year": 2017,
+          "income": 406,
+          "expense": 83,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-154": {
+          "day": 3,
+          "month": 6,
+          "year": 2017,
+          "income": 104,
+          "expense": 240,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-157": {
+          "day": 6,
+          "month": 6,
+          "year": 2017,
+          "income": 3812,
+          "expense": 6124,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-160": {
+          "day": 9,
+          "month": 6,
+          "year": 2017,
+          "income": 2441,
+          "expense": 1850,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-161": {
+          "day": 10,
+          "month": 6,
+          "year": 2017,
+          "income": 1207,
+          "expense": 4719,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-162": {
+          "day": 11,
+          "month": 6,
+          "year": 2017,
+          "income": 1899,
+          "expense": 2735,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-168": {
+          "day": 17,
+          "month": 6,
+          "year": 2017,
+          "income": 4704,
+          "expense": 7693,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-169": {
+          "day": 18,
+          "month": 6,
+          "year": 2017,
+          "income": 5556,
+          "expense": 6789,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-173": {
+          "day": 22,
+          "month": 6,
+          "year": 2017,
+          "income": 4906,
+          "expense": 3958,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-175": {
+          "day": 24,
+          "month": 6,
+          "year": 2017,
+          "income": 3152,
+          "expense": 4191,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-176": {
+          "day": 25,
+          "month": 6,
+          "year": 2017,
+          "income": 1836,
+          "expense": 4675,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-178": {
+          "day": 27,
+          "month": 6,
+          "year": 2017,
+          "income": 494,
+          "expense": 1721,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-06-180": {
+          "day": 29,
+          "month": 6,
+          "year": 2017,
+          "income": 2268,
+          "expense": 2773,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-182": {
+          "day": 1,
+          "month": 7,
+          "year": 2017,
+          "income": 6982,
+          "expense": 2827,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-183": {
+          "day": 2,
+          "month": 7,
+          "year": 2017,
+          "income": 1176,
+          "expense": 879,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-185": {
+          "day": 4,
+          "month": 7,
+          "year": 2017,
+          "income": 4090,
+          "expense": 1608,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-187": {
+          "day": 6,
+          "month": 7,
+          "year": 2017,
+          "income": 2800,
+          "expense": 7167,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-189": {
+          "day": 8,
+          "month": 7,
+          "year": 2017,
+          "income": 7086,
+          "expense": 5209,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-190": {
+          "day": 9,
+          "month": 7,
+          "year": 2017,
+          "income": 2863,
+          "expense": 3022,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-192": {
+          "day": 11,
+          "month": 7,
+          "year": 2017,
+          "income": 8600,
+          "expense": 8473,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-193": {
+          "day": 12,
+          "month": 7,
+          "year": 2017,
+          "income": 3922,
+          "expense": 5800,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-194": {
+          "day": 13,
+          "month": 7,
+          "year": 2017,
+          "income": 3498,
+          "expense": 6657,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-195": {
+          "day": 14,
+          "month": 7,
+          "year": 2017,
+          "income": 1020,
+          "expense": 2496,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-196": {
+          "day": 15,
+          "month": 7,
+          "year": 2017,
+          "income": 3882,
+          "expense": 2408,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-199": {
+          "day": 18,
+          "month": 7,
+          "year": 2017,
+          "income": 2537,
+          "expense": 1656,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-200": {
+          "day": 19,
+          "month": 7,
+          "year": 2017,
+          "income": 3316,
+          "expense": 4874,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-203": {
+          "day": 22,
+          "month": 7,
+          "year": 2017,
+          "income": 3585,
+          "expense": 4343,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-204": {
+          "day": 23,
+          "month": 7,
+          "year": 2017,
+          "income": 4154,
+          "expense": 840,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-206": {
+          "day": 25,
+          "month": 7,
+          "year": 2017,
+          "income": 4436,
+          "expense": 3013,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-208": {
+          "day": 27,
+          "month": 7,
+          "year": 2017,
+          "income": 4548,
+          "expense": 4927,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-210": {
+          "day": 29,
+          "month": 7,
+          "year": 2017,
+          "income": 5282,
+          "expense": 5835,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-211": {
+          "day": 30,
+          "month": 7,
+          "year": 2017,
+          "income": 2677,
+          "expense": 8428,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-216": {
+          "day": 4,
+          "month": 8,
+          "year": 2017,
+          "income": 4284,
+          "expense": 2933,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-218": {
+          "day": 6,
+          "month": 8,
+          "year": 2017,
+          "income": 3699,
+          "expense": 1979,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-222": {
+          "day": 10,
+          "month": 8,
+          "year": 2017,
+          "income": 405,
+          "expense": 2572,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-225": {
+          "day": 13,
+          "month": 8,
+          "year": 2017,
+          "income": 2653,
+          "expense": 274,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-227": {
+          "day": 15,
+          "month": 8,
+          "year": 2017,
+          "income": 9746,
+          "expense": 6262,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-230": {
+          "day": 18,
+          "month": 8,
+          "year": 2017,
+          "income": 6900,
+          "expense": 7418,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-233": {
+          "day": 21,
+          "month": 8,
+          "year": 2017,
+          "income": 825,
+          "expense": 2775,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-234": {
+          "day": 22,
+          "month": 8,
+          "year": 2017,
+          "income": 160,
+          "expense": 902,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-237": {
+          "day": 25,
+          "month": 8,
+          "year": 2017,
+          "income": 2006,
+          "expense": 1808,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-239": {
+          "day": 27,
+          "month": 8,
+          "year": 2017,
+          "income": 2228,
+          "expense": 3323,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-245": {
+          "day": 2,
+          "month": 9,
+          "year": 2017,
+          "income": 725,
+          "expense": 3492,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-246": {
+          "day": 3,
+          "month": 9,
+          "year": 2017,
+          "income": 4083,
+          "expense": 1046,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-248": {
+          "day": 5,
+          "month": 9,
+          "year": 2017,
+          "income": 2932,
+          "expense": 2979,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-251": {
+          "day": 8,
+          "month": 9,
+          "year": 2017,
+          "income": 5693,
+          "expense": 9484,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-253": {
+          "day": 10,
+          "month": 9,
+          "year": 2017,
+          "income": 3997,
+          "expense": 4536,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-254": {
+          "day": 11,
+          "month": 9,
+          "year": 2017,
+          "income": 4032,
+          "expense": 4700,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-255": {
+          "day": 12,
+          "month": 9,
+          "year": 2017,
+          "income": 2054,
+          "expense": 1832,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-256": {
+          "day": 13,
+          "month": 9,
+          "year": 2017,
+          "income": 1320,
+          "expense": 4661,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-257": {
+          "day": 14,
+          "month": 9,
+          "year": 2017,
+          "income": 3182,
+          "expense": 2033,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-259": {
+          "day": 16,
+          "month": 9,
+          "year": 2017,
+          "income": 3947,
+          "expense": 3342,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-262": {
+          "day": 19,
+          "month": 9,
+          "year": 2017,
+          "income": 8366,
+          "expense": 2994,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-263": {
+          "day": 20,
+          "month": 9,
+          "year": 2017,
+          "income": 6991,
+          "expense": 5517,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-268": {
+          "day": 25,
+          "month": 9,
+          "year": 2017,
+          "income": 4473,
+          "expense": 3891,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-269": {
+          "day": 26,
+          "month": 9,
+          "year": 2017,
+          "income": 1343,
+          "expense": 2091,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-271": {
+          "day": 28,
+          "month": 9,
+          "year": 2017,
+          "income": 2195,
+          "expense": 3855,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-272": {
+          "day": 29,
+          "month": 9,
+          "year": 2017,
+          "income": 1569,
+          "expense": 2311,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-275": {
+          "day": 2,
+          "month": 10,
+          "year": 2017,
+          "income": 84,
+          "expense": 4015,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-278": {
+          "day": 5,
+          "month": 10,
+          "year": 2017,
+          "income": 6489,
+          "expense": 5398,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-286": {
+          "day": 13,
+          "month": 10,
+          "year": 2017,
+          "income": 772,
+          "expense": 3867,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-290": {
+          "day": 17,
+          "month": 10,
+          "year": 2017,
+          "income": 3064,
+          "expense": 3250,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-292": {
+          "day": 19,
+          "month": 10,
+          "year": 2017,
+          "income": 2990,
+          "expense": 2233,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-293": {
+          "day": 20,
+          "month": 10,
+          "year": 2017,
+          "income": 4685,
+          "expense": 3225,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-296": {
+          "day": 23,
+          "month": 10,
+          "year": 2017,
+          "income": 3182,
+          "expense": 3011,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-297": {
+          "day": 24,
+          "month": 10,
+          "year": 2017,
+          "income": 1301,
+          "expense": 2849,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-315": {
+          "day": 11,
+          "month": 11,
+          "year": 2017,
+          "income": 3411,
+          "expense": 4596,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-321": {
+          "day": 17,
+          "month": 11,
+          "year": 2017,
+          "income": 1969,
+          "expense": 1540,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-322": {
+          "day": 18,
+          "month": 11,
+          "year": 2017,
+          "income": 5129,
+          "expense": 4499,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-324": {
+          "day": 20,
+          "month": 11,
+          "year": 2017,
+          "income": 2337,
+          "expense": 3642,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-329": {
+          "day": 25,
+          "month": 11,
+          "year": 2017,
+          "income": 3305,
+          "expense": 894,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-331": {
+          "day": 27,
+          "month": 11,
+          "year": 2017,
+          "income": 775,
+          "expense": 4277,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-334": {
+          "day": 30,
+          "month": 11,
+          "year": 2017,
+          "income": 650,
+          "expense": 4243,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-336": {
+          "day": 2,
+          "month": 12,
+          "year": 2017,
+          "income": 573,
+          "expense": 715,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-338": {
+          "day": 4,
+          "month": 12,
+          "year": 2017,
+          "income": 746,
+          "expense": 2924,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-339": {
+          "day": 5,
+          "month": 12,
+          "year": 2017,
+          "income": 2977,
+          "expense": 4889,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-340": {
+          "day": 6,
+          "month": 12,
+          "year": 2017,
+          "income": 3401,
+          "expense": 3593,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-341": {
+          "day": 7,
+          "month": 12,
+          "year": 2017,
+          "income": 3078,
+          "expense": 3373,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-343": {
+          "day": 9,
+          "month": 12,
+          "year": 2017,
+          "income": 797,
+          "expense": 2905,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-345": {
+          "day": 11,
+          "month": 12,
+          "year": 2017,
+          "income": 2397,
+          "expense": 3526,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-346": {
+          "day": 12,
+          "month": 12,
+          "year": 2017,
+          "income": 3177,
+          "expense": 4201,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-348": {
+          "day": 14,
+          "month": 12,
+          "year": 2017,
+          "income": 7137,
+          "expense": 748,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-349": {
+          "day": 15,
+          "month": 12,
+          "year": 2017,
+          "income": 414,
+          "expense": 2717,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-351": {
+          "day": 17,
+          "month": 12,
+          "year": 2017,
+          "income": 1076,
+          "expense": 2823,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-352": {
+          "day": 18,
+          "month": 12,
+          "year": 2017,
+          "income": 2573,
+          "expense": 3229,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-354": {
+          "day": 20,
+          "month": 12,
+          "year": 2017,
+          "income": 5410,
+          "expense": 11353,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-357": {
+          "day": 23,
+          "month": 12,
+          "year": 2017,
+          "income": 7366,
+          "expense": 8239,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-361": {
+          "day": 27,
+          "month": 12,
+          "year": 2017,
+          "income": 2728,
+          "expense": 2498,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-362": {
+          "day": 28,
+          "month": 12,
+          "year": 2017,
+          "income": 3764,
+          "expense": 3211,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2018,
+          "income": 4564,
+          "expense": 4321,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2018,
+          "income": 4276,
+          "expense": 377,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-12": {
+          "day": 12,
+          "month": 1,
+          "year": 2018,
+          "income": 2049,
+          "expense": 687,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-13": {
+          "day": 13,
+          "month": 1,
+          "year": 2018,
+          "income": 2100,
+          "expense": 992,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-15": {
+          "day": 15,
+          "month": 1,
+          "year": 2018,
+          "income": 2030,
+          "expense": 5044,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-16": {
+          "day": 16,
+          "month": 1,
+          "year": 2018,
+          "income": 7903,
+          "expense": 13150,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-18": {
+          "day": 18,
+          "month": 1,
+          "year": 2018,
+          "income": 1782,
+          "expense": 825,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-20": {
+          "day": 20,
+          "month": 1,
+          "year": 2018,
+          "income": 2514,
+          "expense": 3463,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-22": {
+          "day": 22,
+          "month": 1,
+          "year": 2018,
+          "income": 4650,
+          "expense": 5138,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-23": {
+          "day": 23,
+          "month": 1,
+          "year": 2018,
+          "income": 4096,
+          "expense": 297,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-25": {
+          "day": 25,
+          "month": 1,
+          "year": 2018,
+          "income": 734,
+          "expense": 5570,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-32": {
+          "day": 1,
+          "month": 2,
+          "year": 2018,
+          "income": 820,
+          "expense": 4394,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-35": {
+          "day": 4,
+          "month": 2,
+          "year": 2018,
+          "income": 865,
+          "expense": 3199,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-36": {
+          "day": 5,
+          "month": 2,
+          "year": 2018,
+          "income": 4847,
+          "expense": 482,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-37": {
+          "day": 6,
+          "month": 2,
+          "year": 2018,
+          "income": 2216,
+          "expense": 3787,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-39": {
+          "day": 8,
+          "month": 2,
+          "year": 2018,
+          "income": 6527,
+          "expense": 5550,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-40": {
+          "day": 9,
+          "month": 2,
+          "year": 2018,
+          "income": 3394,
+          "expense": 1649,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-41": {
+          "day": 10,
+          "month": 2,
+          "year": 2018,
+          "income": 4037,
+          "expense": 4144,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-42": {
+          "day": 11,
+          "month": 2,
+          "year": 2018,
+          "income": 4059,
+          "expense": 2928,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-44": {
+          "day": 13,
+          "month": 2,
+          "year": 2018,
+          "income": 3089,
+          "expense": 3005,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-45": {
+          "day": 14,
+          "month": 2,
+          "year": 2018,
+          "income": 674,
+          "expense": 3028,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-47": {
+          "day": 16,
+          "month": 2,
+          "year": 2018,
+          "income": 6704,
+          "expense": 4313,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-48": {
+          "day": 17,
+          "month": 2,
+          "year": 2018,
+          "income": 1543,
+          "expense": 3499,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-52": {
+          "day": 21,
+          "month": 2,
+          "year": 2018,
+          "income": 1782,
+          "expense": 2291,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-54": {
+          "day": 23,
+          "month": 2,
+          "year": 2018,
+          "income": 2856,
+          "expense": 1365,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-55": {
+          "day": 24,
+          "month": 2,
+          "year": 2018,
+          "income": 4944,
+          "expense": 1620,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-57": {
+          "day": 26,
+          "month": 2,
+          "year": 2018,
+          "income": 2620,
+          "expense": 4174,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-58": {
+          "day": 27,
+          "month": 2,
+          "year": 2018,
+          "income": 5323,
+          "expense": 5066,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-60": {
+          "day": 29,
+          "month": 2,
+          "year": 2018,
+          "income": 1404,
+          "expense": 4328,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-61": {
+          "day": 30,
+          "month": 2,
+          "year": 2018,
+          "income": 120,
+          "expense": 301,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-64": {
+          "day": 5,
+          "month": 3,
+          "year": 2018,
+          "income": 1276,
+          "expense": 3041,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-66": {
+          "day": 7,
+          "month": 3,
+          "year": 2018,
+          "income": 3982,
+          "expense": 648,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-75": {
+          "day": 16,
+          "month": 3,
+          "year": 2018,
+          "income": 7124,
+          "expense": 5209,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-78": {
+          "day": 19,
+          "month": 3,
+          "year": 2018,
+          "income": 3075,
+          "expense": 2809,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-80": {
+          "day": 21,
+          "month": 3,
+          "year": 2018,
+          "income": 5234,
+          "expense": 4517,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-83": {
+          "day": 24,
+          "month": 3,
+          "year": 2018,
+          "income": 4544,
+          "expense": 1013,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-84": {
+          "day": 25,
+          "month": 3,
+          "year": 2018,
+          "income": 1193,
+          "expense": 1220,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-85": {
+          "day": 26,
+          "month": 3,
+          "year": 2018,
+          "income": 5825,
+          "expense": 8105,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-87": {
+          "day": 28,
+          "month": 3,
+          "year": 2018,
+          "income": 4425,
+          "expense": 3404,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-103": {
+          "day": 13,
+          "month": 4,
+          "year": 2018,
+          "income": 4469,
+          "expense": 4451,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-105": {
+          "day": 15,
+          "month": 4,
+          "year": 2018,
+          "income": 2271,
+          "expense": 1532,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-107": {
+          "day": 17,
+          "month": 4,
+          "year": 2018,
+          "income": 4836,
+          "expense": 9060,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-109": {
+          "day": 19,
+          "month": 4,
+          "year": 2018,
+          "income": 3157,
+          "expense": 528,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-115": {
+          "day": 25,
+          "month": 4,
+          "year": 2018,
+          "income": 2549,
+          "expense": 161,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-117": {
+          "day": 27,
+          "month": 4,
+          "year": 2018,
+          "income": 4269,
+          "expense": 801,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-91": {
+          "day": 1,
+          "month": 4,
+          "year": 2018,
+          "income": 949,
+          "expense": 3593,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-92": {
+          "day": 2,
+          "month": 4,
+          "year": 2018,
+          "income": 5887,
+          "expense": 5962,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-96": {
+          "day": 6,
+          "month": 4,
+          "year": 2018,
+          "income": 351,
+          "expense": 3212,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-99": {
+          "day": 9,
+          "month": 4,
+          "year": 2018,
+          "income": 4456,
+          "expense": 3585,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-121": {
+          "day": 1,
+          "month": 5,
+          "year": 2018,
+          "income": 3503,
+          "expense": 99,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-127": {
+          "day": 7,
+          "month": 5,
+          "year": 2018,
+          "income": 2231,
+          "expense": 2203,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-130": {
+          "day": 10,
+          "month": 5,
+          "year": 2018,
+          "income": 3265,
+          "expense": 2771,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-132": {
+          "day": 12,
+          "month": 5,
+          "year": 2018,
+          "income": 3708,
+          "expense": 5431,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-137": {
+          "day": 17,
+          "month": 5,
+          "year": 2018,
+          "income": 2506,
+          "expense": 1046,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-139": {
+          "day": 19,
+          "month": 5,
+          "year": 2018,
+          "income": 4235,
+          "expense": 291,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-145": {
+          "day": 25,
+          "month": 5,
+          "year": 2018,
+          "income": 1622,
+          "expense": 508,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-146": {
+          "day": 26,
+          "month": 5,
+          "year": 2018,
+          "income": 2886,
+          "expense": 6045,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-149": {
+          "day": 29,
+          "month": 5,
+          "year": 2018,
+          "income": 4261,
+          "expense": 3195,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-153": {
+          "day": 2,
+          "month": 6,
+          "year": 2018,
+          "income": 4151,
+          "expense": 5853,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-159": {
+          "day": 8,
+          "month": 6,
+          "year": 2018,
+          "income": 935,
+          "expense": 2406,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-163": {
+          "day": 12,
+          "month": 6,
+          "year": 2018,
+          "income": 3700,
+          "expense": 4243,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-167": {
+          "day": 16,
+          "month": 6,
+          "year": 2018,
+          "income": 2942,
+          "expense": 2662,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-168": {
+          "day": 17,
+          "month": 6,
+          "year": 2018,
+          "income": 4770,
+          "expense": 410,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-171": {
+          "day": 20,
+          "month": 6,
+          "year": 2018,
+          "income": 1732,
+          "expense": 4278,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-172": {
+          "day": 21,
+          "month": 6,
+          "year": 2018,
+          "income": 2188,
+          "expense": 2755,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-175": {
+          "day": 24,
+          "month": 6,
+          "year": 2018,
+          "income": 3854,
+          "expense": 178,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-176": {
+          "day": 25,
+          "month": 6,
+          "year": 2018,
+          "income": 3182,
+          "expense": 2998,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-177": {
+          "day": 26,
+          "month": 6,
+          "year": 2018,
+          "income": 5164,
+          "expense": 4899,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-179": {
+          "day": 28,
+          "month": 6,
+          "year": 2018,
+          "income": 1758,
+          "expense": 3841,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-06-180": {
+          "day": 29,
+          "month": 6,
+          "year": 2018,
+          "income": 649,
+          "expense": 1418,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-185": {
+          "day": 4,
+          "month": 7,
+          "year": 2018,
+          "income": 2986,
+          "expense": 3432,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-186": {
+          "day": 5,
+          "month": 7,
+          "year": 2018,
+          "income": 2923,
+          "expense": 838,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-187": {
+          "day": 6,
+          "month": 7,
+          "year": 2018,
+          "income": 3838,
+          "expense": 721,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-188": {
+          "day": 7,
+          "month": 7,
+          "year": 2018,
+          "income": 2822,
+          "expense": 2329,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-192": {
+          "day": 11,
+          "month": 7,
+          "year": 2018,
+          "income": 1741,
+          "expense": 209,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-193": {
+          "day": 12,
+          "month": 7,
+          "year": 2018,
+          "income": 8572,
+          "expense": 6082,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-194": {
+          "day": 13,
+          "month": 7,
+          "year": 2018,
+          "income": 2518,
+          "expense": 2775,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-195": {
+          "day": 14,
+          "month": 7,
+          "year": 2018,
+          "income": 6100,
+          "expense": 1412,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-196": {
+          "day": 15,
+          "month": 7,
+          "year": 2018,
+          "income": 5902,
+          "expense": 4027,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-198": {
+          "day": 17,
+          "month": 7,
+          "year": 2018,
+          "income": 208,
+          "expense": 2355,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-203": {
+          "day": 22,
+          "month": 7,
+          "year": 2018,
+          "income": 2367,
+          "expense": 1457,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-208": {
+          "day": 27,
+          "month": 7,
+          "year": 2018,
+          "income": 3749,
+          "expense": 1099,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-211": {
+          "day": 30,
+          "month": 7,
+          "year": 2018,
+          "income": 4168,
+          "expense": 2844,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-214": {
+          "day": 2,
+          "month": 8,
+          "year": 2018,
+          "income": 3490,
+          "expense": 3196,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-216": {
+          "day": 4,
+          "month": 8,
+          "year": 2018,
+          "income": 1559,
+          "expense": 3125,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-219": {
+          "day": 7,
+          "month": 8,
+          "year": 2018,
+          "income": 4099,
+          "expense": 527,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-220": {
+          "day": 8,
+          "month": 8,
+          "year": 2018,
+          "income": 110,
+          "expense": 2324,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-221": {
+          "day": 9,
+          "month": 8,
+          "year": 2018,
+          "income": 520,
+          "expense": 3130,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-224": {
+          "day": 12,
+          "month": 8,
+          "year": 2018,
+          "income": 3188,
+          "expense": 1040,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-225": {
+          "day": 13,
+          "month": 8,
+          "year": 2018,
+          "income": 4053,
+          "expense": 6504,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-227": {
+          "day": 15,
+          "month": 8,
+          "year": 2018,
+          "income": 1936,
+          "expense": 372,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-228": {
+          "day": 16,
+          "month": 8,
+          "year": 2018,
+          "income": 4619,
+          "expense": 2518,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-234": {
+          "day": 22,
+          "month": 8,
+          "year": 2018,
+          "income": 1049,
+          "expense": 4657,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-238": {
+          "day": 26,
+          "month": 8,
+          "year": 2018,
+          "income": 4467,
+          "expense": 3340,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-241": {
+          "day": 29,
+          "month": 8,
+          "year": 2018,
+          "income": 4576,
+          "expense": 1112,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-242": {
+          "day": 30,
+          "month": 8,
+          "year": 2018,
+          "income": 4577,
+          "expense": 77,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-245": {
+          "day": 2,
+          "month": 9,
+          "year": 2018,
+          "income": 410,
+          "expense": 3366,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-249": {
+          "day": 6,
+          "month": 9,
+          "year": 2018,
+          "income": 8476,
+          "expense": 7811,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-250": {
+          "day": 7,
+          "month": 9,
+          "year": 2018,
+          "income": 3450,
+          "expense": 4454,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-253": {
+          "day": 10,
+          "month": 9,
+          "year": 2018,
+          "income": 2156,
+          "expense": 596,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-254": {
+          "day": 11,
+          "month": 9,
+          "year": 2018,
+          "income": 7272,
+          "expense": 1310,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-256": {
+          "day": 13,
+          "month": 9,
+          "year": 2018,
+          "income": 4180,
+          "expense": 3216,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-263": {
+          "day": 20,
+          "month": 9,
+          "year": 2018,
+          "income": 2986,
+          "expense": 4077,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-264": {
+          "day": 21,
+          "month": 9,
+          "year": 2018,
+          "income": 1529,
+          "expense": 4869,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-265": {
+          "day": 22,
+          "month": 9,
+          "year": 2018,
+          "income": 7306,
+          "expense": 6197,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-267": {
+          "day": 24,
+          "month": 9,
+          "year": 2018,
+          "income": 5288,
+          "expense": 2789,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-268": {
+          "day": 25,
+          "month": 9,
+          "year": 2018,
+          "income": 4888,
+          "expense": 3872,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-09-272": {
+          "day": 29,
+          "month": 9,
+          "year": 2018,
+          "income": 1645,
+          "expense": 1983,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-276": {
+          "day": 3,
+          "month": 10,
+          "year": 2018,
+          "income": 2111,
+          "expense": 4743,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-277": {
+          "day": 4,
+          "month": 10,
+          "year": 2018,
+          "income": 761,
+          "expense": 3342,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-278": {
+          "day": 5,
+          "month": 10,
+          "year": 2018,
+          "income": 747,
+          "expense": 3403,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-280": {
+          "day": 7,
+          "month": 10,
+          "year": 2018,
+          "income": 878,
+          "expense": 1574,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-282": {
+          "day": 9,
+          "month": 10,
+          "year": 2018,
+          "income": 1113,
+          "expense": 3413,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-284": {
+          "day": 11,
+          "month": 10,
+          "year": 2018,
+          "income": 701,
+          "expense": 4824,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-285": {
+          "day": 12,
+          "month": 10,
+          "year": 2018,
+          "income": 3510,
+          "expense": 643,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-292": {
+          "day": 19,
+          "month": 10,
+          "year": 2018,
+          "income": 1814,
+          "expense": 2633,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-295": {
+          "day": 22,
+          "month": 10,
+          "year": 2018,
+          "income": 894,
+          "expense": 1848,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-296": {
+          "day": 23,
+          "month": 10,
+          "year": 2018,
+          "income": 514,
+          "expense": 1602,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-297": {
+          "day": 24,
+          "month": 10,
+          "year": 2018,
+          "income": 5968,
+          "expense": 3779,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-301": {
+          "day": 28,
+          "month": 10,
+          "year": 2018,
+          "income": 1102,
+          "expense": 40,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-302": {
+          "day": 29,
+          "month": 10,
+          "year": 2018,
+          "income": 1257,
+          "expense": 8250,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-305": {
+          "day": 1,
+          "month": 11,
+          "year": 2018,
+          "income": 1751,
+          "expense": 7749,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-315": {
+          "day": 11,
+          "month": 11,
+          "year": 2018,
+          "income": 2107,
+          "expense": 1601,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-316": {
+          "day": 12,
+          "month": 11,
+          "year": 2018,
+          "income": 3818,
+          "expense": 246,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-317": {
+          "day": 13,
+          "month": 11,
+          "year": 2018,
+          "income": 46,
+          "expense": 4431,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-318": {
+          "day": 14,
+          "month": 11,
+          "year": 2018,
+          "income": 4072,
+          "expense": 701,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-321": {
+          "day": 17,
+          "month": 11,
+          "year": 2018,
+          "income": 141,
+          "expense": 1154,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-323": {
+          "day": 19,
+          "month": 11,
+          "year": 2018,
+          "income": 2600,
+          "expense": 670,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-327": {
+          "day": 23,
+          "month": 11,
+          "year": 2018,
+          "income": 3685,
+          "expense": 6337,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-329": {
+          "day": 25,
+          "month": 11,
+          "year": 2018,
+          "income": 1839,
+          "expense": 3154,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-330": {
+          "day": 26,
+          "month": 11,
+          "year": 2018,
+          "income": 2914,
+          "expense": 4596,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-333": {
+          "day": 29,
+          "month": 11,
+          "year": 2018,
+          "income": 4445,
+          "expense": 1635,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-334": {
+          "day": 30,
+          "month": 11,
+          "year": 2018,
+          "income": 3997,
+          "expense": 3406,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-335": {
+          "day": 1,
+          "month": 12,
+          "year": 2018,
+          "income": 3103,
+          "expense": 2559,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-337": {
+          "day": 3,
+          "month": 12,
+          "year": 2018,
+          "income": 2029,
+          "expense": 7752,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-338": {
+          "day": 4,
+          "month": 12,
+          "year": 2018,
+          "income": 666,
+          "expense": 380,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-340": {
+          "day": 6,
+          "month": 12,
+          "year": 2018,
+          "income": 1642,
+          "expense": 3615,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-341": {
+          "day": 7,
+          "month": 12,
+          "year": 2018,
+          "income": 1475,
+          "expense": 2180,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-345": {
+          "day": 11,
+          "month": 12,
+          "year": 2018,
+          "income": 3261,
+          "expense": 781,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-350": {
+          "day": 16,
+          "month": 12,
+          "year": 2018,
+          "income": 4536,
+          "expense": 4146,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-351": {
+          "day": 17,
+          "month": 12,
+          "year": 2018,
+          "income": 3335,
+          "expense": 2492,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-359": {
+          "day": 25,
+          "month": 12,
+          "year": 2018,
+          "income": 2389,
+          "expense": 1020,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-360": {
+          "day": 26,
+          "month": 12,
+          "year": 2018,
+          "income": 3077,
+          "expense": 4937,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-361": {
+          "day": 27,
+          "month": 12,
+          "year": 2018,
+          "income": 303,
+          "expense": 3289,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-362": {
+          "day": 28,
+          "month": 12,
+          "year": 2018,
+          "income": 5161,
+          "expense": 4213,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-11": {
+          "day": 11,
+          "month": 1,
+          "year": 2019,
+          "income": 2504,
+          "expense": 4553,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-13": {
+          "day": 13,
+          "month": 1,
+          "year": 2019,
+          "income": 9333,
+          "expense": 4189,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-15": {
+          "day": 15,
+          "month": 1,
+          "year": 2019,
+          "income": 708,
+          "expense": 2377,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-17": {
+          "day": 17,
+          "month": 1,
+          "year": 2019,
+          "income": 3316,
+          "expense": 2099,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-20": {
+          "day": 20,
+          "month": 1,
+          "year": 2019,
+          "income": 4276,
+          "expense": 1607,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-24": {
+          "day": 24,
+          "month": 1,
+          "year": 2019,
+          "income": 4072,
+          "expense": 2873,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-28": {
+          "day": 28,
+          "month": 1,
+          "year": 2019,
+          "income": 489,
+          "expense": 3086,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-30": {
+          "day": 30,
+          "month": 1,
+          "year": 2019,
+          "income": 4702,
+          "expense": 4486,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-32": {
+          "day": 1,
+          "month": 2,
+          "year": 2019,
+          "income": 4846,
+          "expense": 4116,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-34": {
+          "day": 3,
+          "month": 2,
+          "year": 2019,
+          "income": 4393,
+          "expense": 1593,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-35": {
+          "day": 4,
+          "month": 2,
+          "year": 2019,
+          "income": 4687,
+          "expense": 4786,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-38": {
+          "day": 7,
+          "month": 2,
+          "year": 2019,
+          "income": 8237,
+          "expense": 7525,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-39": {
+          "day": 8,
+          "month": 2,
+          "year": 2019,
+          "income": 7143,
+          "expense": 5805,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-40": {
+          "day": 9,
+          "month": 2,
+          "year": 2019,
+          "income": 4844,
+          "expense": 2552,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-42": {
+          "day": 11,
+          "month": 2,
+          "year": 2019,
+          "income": 3253,
+          "expense": 4139,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-44": {
+          "day": 13,
+          "month": 2,
+          "year": 2019,
+          "income": 5785,
+          "expense": 4818,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-45": {
+          "day": 14,
+          "month": 2,
+          "year": 2019,
+          "income": 4986,
+          "expense": 3490,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-47": {
+          "day": 16,
+          "month": 2,
+          "year": 2019,
+          "income": 4550,
+          "expense": 4844,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-50": {
+          "day": 19,
+          "month": 2,
+          "year": 2019,
+          "income": 3525,
+          "expense": 4854,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-53": {
+          "day": 22,
+          "month": 2,
+          "year": 2019,
+          "income": 4268,
+          "expense": 319,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-56": {
+          "day": 25,
+          "month": 2,
+          "year": 2019,
+          "income": 3470,
+          "expense": 8815,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-57": {
+          "day": 26,
+          "month": 2,
+          "year": 2019,
+          "income": 4405,
+          "expense": 3041,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-02-59": {
+          "day": 28,
+          "month": 2,
+          "year": 2019,
+          "income": 2513,
+          "expense": 1094,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-60": {
+          "day": 1,
+          "month": 3,
+          "year": 2019,
+          "income": 9023,
+          "expense": 4528,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-61": {
+          "day": 2,
+          "month": 3,
+          "year": 2019,
+          "income": 3608,
+          "expense": 5129,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-63": {
+          "day": 4,
+          "month": 3,
+          "year": 2019,
+          "income": 3620,
+          "expense": 2463,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-64": {
+          "day": 5,
+          "month": 3,
+          "year": 2019,
+          "income": 622,
+          "expense": 406,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-65": {
+          "day": 6,
+          "month": 3,
+          "year": 2019,
+          "income": 2902,
+          "expense": 952,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-67": {
+          "day": 8,
+          "month": 3,
+          "year": 2019,
+          "income": 566,
+          "expense": 2167,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-74": {
+          "day": 15,
+          "month": 3,
+          "year": 2019,
+          "income": 2582,
+          "expense": 1738,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-77": {
+          "day": 18,
+          "month": 3,
+          "year": 2019,
+          "income": 4423,
+          "expense": 2842,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-78": {
+          "day": 19,
+          "month": 3,
+          "year": 2019,
+          "income": 5936,
+          "expense": 5266,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-83": {
+          "day": 24,
+          "month": 3,
+          "year": 2019,
+          "income": 127,
+          "expense": 3181,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-87": {
+          "day": 28,
+          "month": 3,
+          "year": 2019,
+          "income": 2951,
+          "expense": 3199,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-89": {
+          "day": 30,
+          "month": 3,
+          "year": 2019,
+          "income": 714,
+          "expense": 2518,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-103": {
+          "day": 13,
+          "month": 4,
+          "year": 2019,
+          "income": 4376,
+          "expense": 5952,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-105": {
+          "day": 15,
+          "month": 4,
+          "year": 2019,
+          "income": 674,
+          "expense": 4520,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-109": {
+          "day": 19,
+          "month": 4,
+          "year": 2019,
+          "income": 4176,
+          "expense": 1414,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-113": {
+          "day": 23,
+          "month": 4,
+          "year": 2019,
+          "income": 7845,
+          "expense": 626,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-119": {
+          "day": 29,
+          "month": 4,
+          "year": 2019,
+          "income": 6078,
+          "expense": 5698,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-120": {
+          "day": 30,
+          "month": 4,
+          "year": 2019,
+          "income": 8190,
+          "expense": 6453,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-91": {
+          "day": 1,
+          "month": 4,
+          "year": 2019,
+          "income": 479,
+          "expense": 959,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-97": {
+          "day": 7,
+          "month": 4,
+          "year": 2019,
+          "income": 1992,
+          "expense": 1668,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-98": {
+          "day": 8,
+          "month": 4,
+          "year": 2019,
+          "income": 2751,
+          "expense": 2043,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-121": {
+          "day": 1,
+          "month": 5,
+          "year": 2019,
+          "income": 5490,
+          "expense": 4296,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-128": {
+          "day": 8,
+          "month": 5,
+          "year": 2019,
+          "income": 675,
+          "expense": 576,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-129": {
+          "day": 9,
+          "month": 5,
+          "year": 2019,
+          "income": 2286,
+          "expense": 3722,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-133": {
+          "day": 13,
+          "month": 5,
+          "year": 2019,
+          "income": 4085,
+          "expense": 2951,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-136": {
+          "day": 16,
+          "month": 5,
+          "year": 2019,
+          "income": 2861,
+          "expense": 2995,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-137": {
+          "day": 17,
+          "month": 5,
+          "year": 2019,
+          "income": 4955,
+          "expense": 4971,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-139": {
+          "day": 19,
+          "month": 5,
+          "year": 2019,
+          "income": 1146,
+          "expense": 3078,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-141": {
+          "day": 21,
+          "month": 5,
+          "year": 2019,
+          "income": 525,
+          "expense": 1805,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-05-146": {
+          "day": 26,
+          "month": 5,
+          "year": 2019,
+          "income": 2101,
+          "expense": 3637,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-152": {
+          "day": 1,
+          "month": 6,
+          "year": 2019,
+          "income": 1346,
+          "expense": 4149,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-154": {
+          "day": 3,
+          "month": 6,
+          "year": 2019,
+          "income": 3489,
+          "expense": 3877,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-158": {
+          "day": 7,
+          "month": 6,
+          "year": 2019,
+          "income": 77,
+          "expense": 2831,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-160": {
+          "day": 9,
+          "month": 6,
+          "year": 2019,
+          "income": 2797,
+          "expense": 1219,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-163": {
+          "day": 12,
+          "month": 6,
+          "year": 2019,
+          "income": 3698,
+          "expense": 3594,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-164": {
+          "day": 13,
+          "month": 6,
+          "year": 2019,
+          "income": 1307,
+          "expense": 2443,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-166": {
+          "day": 15,
+          "month": 6,
+          "year": 2019,
+          "income": 351,
+          "expense": 689,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-167": {
+          "day": 16,
+          "month": 6,
+          "year": 2019,
+          "income": 5997,
+          "expense": 5942,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-179": {
+          "day": 28,
+          "month": 6,
+          "year": 2019,
+          "income": 4178,
+          "expense": 3379,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-180": {
+          "day": 29,
+          "month": 6,
+          "year": 2019,
+          "income": 1330,
+          "expense": 4029,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-181": {
+          "day": 30,
+          "month": 6,
+          "year": 2019,
+          "income": 4985,
+          "expense": 1016,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-182": {
+          "day": 1,
+          "month": 7,
+          "year": 2019,
+          "income": 5836,
+          "expense": 3604,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-185": {
+          "day": 4,
+          "month": 7,
+          "year": 2019,
+          "income": 2093,
+          "expense": 773,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-189": {
+          "day": 8,
+          "month": 7,
+          "year": 2019,
+          "income": 3515,
+          "expense": 2905,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-190": {
+          "day": 9,
+          "month": 7,
+          "year": 2019,
+          "income": 1045,
+          "expense": 364,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-193": {
+          "day": 12,
+          "month": 7,
+          "year": 2019,
+          "income": 1628,
+          "expense": 1277,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-196": {
+          "day": 15,
+          "month": 7,
+          "year": 2019,
+          "income": 1391,
+          "expense": 4768,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-198": {
+          "day": 17,
+          "month": 7,
+          "year": 2019,
+          "income": 1656,
+          "expense": 8967,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-199": {
+          "day": 18,
+          "month": 7,
+          "year": 2019,
+          "income": 733,
+          "expense": 1691,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-203": {
+          "day": 22,
+          "month": 7,
+          "year": 2019,
+          "income": 2232,
+          "expense": 4647,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-204": {
+          "day": 23,
+          "month": 7,
+          "year": 2019,
+          "income": 5867,
+          "expense": 1106,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-208": {
+          "day": 27,
+          "month": 7,
+          "year": 2019,
+          "income": 8101,
+          "expense": 5025,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-209": {
+          "day": 28,
+          "month": 7,
+          "year": 2019,
+          "income": 2129,
+          "expense": 4082,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-217": {
+          "day": 5,
+          "month": 8,
+          "year": 2019,
+          "income": 3243,
+          "expense": 2817,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-219": {
+          "day": 7,
+          "month": 8,
+          "year": 2019,
+          "income": 11124,
+          "expense": 5443,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-220": {
+          "day": 8,
+          "month": 8,
+          "year": 2019,
+          "income": 6412,
+          "expense": 9673,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-221": {
+          "day": 9,
+          "month": 8,
+          "year": 2019,
+          "income": 4634,
+          "expense": 4836,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-222": {
+          "day": 10,
+          "month": 8,
+          "year": 2019,
+          "income": 2770,
+          "expense": 2582,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-230": {
+          "day": 18,
+          "month": 8,
+          "year": 2019,
+          "income": 3202,
+          "expense": 3881,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-232": {
+          "day": 20,
+          "month": 8,
+          "year": 2019,
+          "income": 2922,
+          "expense": 639,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-236": {
+          "day": 24,
+          "month": 8,
+          "year": 2019,
+          "income": 1142,
+          "expense": 2473,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-238": {
+          "day": 26,
+          "month": 8,
+          "year": 2019,
+          "income": 6795,
+          "expense": 2659,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-240": {
+          "day": 28,
+          "month": 8,
+          "year": 2019,
+          "income": 4816,
+          "expense": 772,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-241": {
+          "day": 29,
+          "month": 8,
+          "year": 2019,
+          "income": 4042,
+          "expense": 918,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-242": {
+          "day": 30,
+          "month": 8,
+          "year": 2019,
+          "income": 7871,
+          "expense": 5307,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-246": {
+          "day": 3,
+          "month": 9,
+          "year": 2019,
+          "income": 1197,
+          "expense": 1637,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-248": {
+          "day": 5,
+          "month": 9,
+          "year": 2019,
+          "income": 3594,
+          "expense": 4330,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-252": {
+          "day": 9,
+          "month": 9,
+          "year": 2019,
+          "income": 964,
+          "expense": 3683,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-256": {
+          "day": 13,
+          "month": 9,
+          "year": 2019,
+          "income": 2299,
+          "expense": 1546,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-257": {
+          "day": 14,
+          "month": 9,
+          "year": 2019,
+          "income": 3411,
+          "expense": 3513,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-259": {
+          "day": 16,
+          "month": 9,
+          "year": 2019,
+          "income": 3013,
+          "expense": 8595,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-261": {
+          "day": 18,
+          "month": 9,
+          "year": 2019,
+          "income": 2647,
+          "expense": 1346,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-263": {
+          "day": 20,
+          "month": 9,
+          "year": 2019,
+          "income": 9517,
+          "expense": 6381,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-267": {
+          "day": 24,
+          "month": 9,
+          "year": 2019,
+          "income": 2244,
+          "expense": 4450,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-268": {
+          "day": 25,
+          "month": 9,
+          "year": 2019,
+          "income": 4955,
+          "expense": 7912,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-270": {
+          "day": 27,
+          "month": 9,
+          "year": 2019,
+          "income": 2899,
+          "expense": 4985,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-271": {
+          "day": 28,
+          "month": 9,
+          "year": 2019,
+          "income": 3847,
+          "expense": 1486,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-272": {
+          "day": 29,
+          "month": 9,
+          "year": 2019,
+          "income": 8107,
+          "expense": 4683,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-273": {
+          "day": 30,
+          "month": 9,
+          "year": 2019,
+          "income": 433,
+          "expense": 17,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-274": {
+          "day": 1,
+          "month": 10,
+          "year": 2019,
+          "income": 3758,
+          "expense": 7225,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-275": {
+          "day": 2,
+          "month": 10,
+          "year": 2019,
+          "income": 5422,
+          "expense": 3563,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-276": {
+          "day": 3,
+          "month": 10,
+          "year": 2019,
+          "income": 2352,
+          "expense": 1561,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-278": {
+          "day": 5,
+          "month": 10,
+          "year": 2019,
+          "income": 1795,
+          "expense": 3911,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-279": {
+          "day": 6,
+          "month": 10,
+          "year": 2019,
+          "income": 81,
+          "expense": 858,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-280": {
+          "day": 7,
+          "month": 10,
+          "year": 2019,
+          "income": 2258,
+          "expense": 1669,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-285": {
+          "day": 12,
+          "month": 10,
+          "year": 2019,
+          "income": 4739,
+          "expense": 3995,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-287": {
+          "day": 14,
+          "month": 10,
+          "year": 2019,
+          "income": 4007,
+          "expense": 1778,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-288": {
+          "day": 15,
+          "month": 10,
+          "year": 2019,
+          "income": 2449,
+          "expense": 3547,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-295": {
+          "day": 22,
+          "month": 10,
+          "year": 2019,
+          "income": 3288,
+          "expense": 373,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-296": {
+          "day": 23,
+          "month": 10,
+          "year": 2019,
+          "income": 4473,
+          "expense": 3277,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-297": {
+          "day": 24,
+          "month": 10,
+          "year": 2019,
+          "income": 1861,
+          "expense": 2865,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-298": {
+          "day": 25,
+          "month": 10,
+          "year": 2019,
+          "income": 1299,
+          "expense": 4,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-300": {
+          "day": 27,
+          "month": 10,
+          "year": 2019,
+          "income": 4076,
+          "expense": 1712,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-10-303": {
+          "day": 30,
+          "month": 10,
+          "year": 2019,
+          "income": 3484,
+          "expense": 1320,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-305": {
+          "day": 1,
+          "month": 11,
+          "year": 2019,
+          "income": 1855,
+          "expense": 135,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-308": {
+          "day": 4,
+          "month": 11,
+          "year": 2019,
+          "income": 3981,
+          "expense": 4810,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-313": {
+          "day": 9,
+          "month": 11,
+          "year": 2019,
+          "income": 3946,
+          "expense": 3306,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-314": {
+          "day": 10,
+          "month": 11,
+          "year": 2019,
+          "income": 3257,
+          "expense": 3782,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-320": {
+          "day": 16,
+          "month": 11,
+          "year": 2019,
+          "income": 9573,
+          "expense": 4151,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-321": {
+          "day": 17,
+          "month": 11,
+          "year": 2019,
+          "income": 2485,
+          "expense": 623,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-324": {
+          "day": 20,
+          "month": 11,
+          "year": 2019,
+          "income": 3756,
+          "expense": 3125,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-325": {
+          "day": 21,
+          "month": 11,
+          "year": 2019,
+          "income": 4243,
+          "expense": 2965,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-327": {
+          "day": 23,
+          "month": 11,
+          "year": 2019,
+          "income": 858,
+          "expense": 4371,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-329": {
+          "day": 25,
+          "month": 11,
+          "year": 2019,
+          "income": 1360,
+          "expense": 5636,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-330": {
+          "day": 26,
+          "month": 11,
+          "year": 2019,
+          "income": 3532,
+          "expense": 2121,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-331": {
+          "day": 27,
+          "month": 11,
+          "year": 2019,
+          "income": 1120,
+          "expense": 1162,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-333": {
+          "day": 29,
+          "month": 11,
+          "year": 2019,
+          "income": 3523,
+          "expense": 1333,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-334": {
+          "day": 30,
+          "month": 11,
+          "year": 2019,
+          "income": 4546,
+          "expense": 3659,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-335": {
+          "day": 1,
+          "month": 12,
+          "year": 2019,
+          "income": 1187,
+          "expense": 3971,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-336": {
+          "day": 2,
+          "month": 12,
+          "year": 2019,
+          "income": 2269,
+          "expense": 1410,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-338": {
+          "day": 4,
+          "month": 12,
+          "year": 2019,
+          "income": 4115,
+          "expense": 4323,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-342": {
+          "day": 8,
+          "month": 12,
+          "year": 2019,
+          "income": 5812,
+          "expense": 2669,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-346": {
+          "day": 12,
+          "month": 12,
+          "year": 2019,
+          "income": 4660,
+          "expense": 4881,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-348": {
+          "day": 14,
+          "month": 12,
+          "year": 2019,
+          "income": 1643,
+          "expense": 1366,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-351": {
+          "day": 17,
+          "month": 12,
+          "year": 2019,
+          "income": 6251,
+          "expense": 4976,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-354": {
+          "day": 20,
+          "month": 12,
+          "year": 2019,
+          "income": 2016,
+          "expense": 4900,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-356": {
+          "day": 22,
+          "month": 12,
+          "year": 2019,
+          "income": 2243,
+          "expense": 2627,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-359": {
+          "day": 25,
+          "month": 12,
+          "year": 2019,
+          "income": 11131,
+          "expense": 11407,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-361": {
+          "day": 27,
+          "month": 12,
+          "year": 2019,
+          "income": 4378,
+          "expense": 4039,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-362": {
+          "day": 28,
+          "month": 12,
+          "year": 2019,
+          "income": 1654,
+          "expense": 981,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2020,
+          "income": 604,
+          "expense": 463,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2020,
+          "income": 1729,
+          "expense": 8561,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2020,
+          "income": 6660,
+          "expense": 4507,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-05": {
+          "day": 5,
+          "month": 1,
+          "year": 2020,
+          "income": 2879,
+          "expense": 2849,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2020,
+          "income": 346,
+          "expense": 2207,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-07": {
+          "day": 7,
+          "month": 1,
+          "year": 2020,
+          "income": 902,
+          "expense": 3000,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-08": {
+          "day": 8,
+          "month": 1,
+          "year": 2020,
+          "income": 2567,
+          "expense": 4949,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-10": {
+          "day": 10,
+          "month": 1,
+          "year": 2020,
+          "income": 3623,
+          "expense": 795,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-11": {
+          "day": 11,
+          "month": 1,
+          "year": 2020,
+          "income": 3723,
+          "expense": 4648,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-14": {
+          "day": 14,
+          "month": 1,
+          "year": 2020,
+          "income": 1396,
+          "expense": 606,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-15": {
+          "day": 15,
+          "month": 1,
+          "year": 2020,
+          "income": 3917,
+          "expense": 2298,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-17": {
+          "day": 17,
+          "month": 1,
+          "year": 2020,
+          "income": 4723,
+          "expense": 1020,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-18": {
+          "day": 18,
+          "month": 1,
+          "year": 2020,
+          "income": 1258,
+          "expense": 4087,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-19": {
+          "day": 19,
+          "month": 1,
+          "year": 2020,
+          "income": 4632,
+          "expense": 3439,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-20": {
+          "day": 20,
+          "month": 1,
+          "year": 2020,
+          "income": 739,
+          "expense": 1182,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-26": {
+          "day": 26,
+          "month": 1,
+          "year": 2020,
+          "income": 703,
+          "expense": 4143,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-29": {
+          "day": 29,
+          "month": 1,
+          "year": 2020,
+          "income": 2175,
+          "expense": 234,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-30": {
+          "day": 30,
+          "month": 1,
+          "year": 2020,
+          "income": 7999,
+          "expense": 2190,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-34": {
+          "day": 3,
+          "month": 2,
+          "year": 2020,
+          "income": 2941,
+          "expense": 1648,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-35": {
+          "day": 4,
+          "month": 2,
+          "year": 2020,
+          "income": 4273,
+          "expense": 197,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-39": {
+          "day": 8,
+          "month": 2,
+          "year": 2020,
+          "income": 742,
+          "expense": 4642,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-42": {
+          "day": 11,
+          "month": 2,
+          "year": 2020,
+          "income": 3994,
+          "expense": 2180,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-44": {
+          "day": 13,
+          "month": 2,
+          "year": 2020,
+          "income": 3174,
+          "expense": 3554,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-45": {
+          "day": 14,
+          "month": 2,
+          "year": 2020,
+          "income": 629,
+          "expense": 99,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-46": {
+          "day": 15,
+          "month": 2,
+          "year": 2020,
+          "income": 2329,
+          "expense": 4383,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-48": {
+          "day": 17,
+          "month": 2,
+          "year": 2020,
+          "income": 227,
+          "expense": 3266,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-49": {
+          "day": 18,
+          "month": 2,
+          "year": 2020,
+          "income": 4497,
+          "expense": 1191,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-50": {
+          "day": 19,
+          "month": 2,
+          "year": 2020,
+          "income": 1997,
+          "expense": 2207,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-52": {
+          "day": 21,
+          "month": 2,
+          "year": 2020,
+          "income": 3986,
+          "expense": 4515,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-53": {
+          "day": 22,
+          "month": 2,
+          "year": 2020,
+          "income": 3088,
+          "expense": 4120,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-57": {
+          "day": 26,
+          "month": 2,
+          "year": 2020,
+          "income": 6707,
+          "expense": 3098,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-58": {
+          "day": 27,
+          "month": 2,
+          "year": 2020,
+          "income": 400,
+          "expense": 798,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-61": {
+          "day": 1,
+          "month": 3,
+          "year": 2020,
+          "income": 4011,
+          "expense": 227,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-64": {
+          "day": 4,
+          "month": 3,
+          "year": 2020,
+          "income": 1799,
+          "expense": 4421,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-69": {
+          "day": 9,
+          "month": 3,
+          "year": 2020,
+          "income": 9113,
+          "expense": 3464,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-71": {
+          "day": 11,
+          "month": 3,
+          "year": 2020,
+          "income": 4508,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-74": {
+          "day": 14,
+          "month": 3,
+          "year": 2020,
+          "income": 3731,
+          "expense": 3161,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-76": {
+          "day": 16,
+          "month": 3,
+          "year": 2020,
+          "income": 1463,
+          "expense": 532,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-78": {
+          "day": 18,
+          "month": 3,
+          "year": 2020,
+          "income": 4794,
+          "expense": 7842,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-82": {
+          "day": 22,
+          "month": 3,
+          "year": 2020,
+          "income": 4079,
+          "expense": 3336,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-84": {
+          "day": 24,
+          "month": 3,
+          "year": 2020,
+          "income": 4546,
+          "expense": 980,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-86": {
+          "day": 26,
+          "month": 3,
+          "year": 2020,
+          "income": 2547,
+          "expense": 5181,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-87": {
+          "day": 27,
+          "month": 3,
+          "year": 2020,
+          "income": 71,
+          "expense": 3711,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-88": {
+          "day": 28,
+          "month": 3,
+          "year": 2020,
+          "income": 2434,
+          "expense": 3296,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-89": {
+          "day": 29,
+          "month": 3,
+          "year": 2020,
+          "income": 8478,
+          "expense": 8130,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-90": {
+          "day": 30,
+          "month": 3,
+          "year": 2020,
+          "income": 2851,
+          "expense": 2534,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-103": {
+          "day": 12,
+          "month": 4,
+          "year": 2020,
+          "income": 7467,
+          "expense": 8544,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-106": {
+          "day": 15,
+          "month": 4,
+          "year": 2020,
+          "income": 6856,
+          "expense": 8444,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-110": {
+          "day": 19,
+          "month": 4,
+          "year": 2020,
+          "income": 5626,
+          "expense": 6901,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-111": {
+          "day": 20,
+          "month": 4,
+          "year": 2020,
+          "income": 554,
+          "expense": 498,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-113": {
+          "day": 22,
+          "month": 4,
+          "year": 2020,
+          "income": 3742,
+          "expense": 2078,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-114": {
+          "day": 23,
+          "month": 4,
+          "year": 2020,
+          "income": 326,
+          "expense": 1619,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-117": {
+          "day": 26,
+          "month": 4,
+          "year": 2020,
+          "income": 4449,
+          "expense": 3469,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-118": {
+          "day": 27,
+          "month": 4,
+          "year": 2020,
+          "income": 4283,
+          "expense": 4066,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-119": {
+          "day": 28,
+          "month": 4,
+          "year": 2020,
+          "income": 940,
+          "expense": 4182,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-93": {
+          "day": 2,
+          "month": 4,
+          "year": 2020,
+          "income": 4150,
+          "expense": 4443,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-96": {
+          "day": 5,
+          "month": 4,
+          "year": 2020,
+          "income": 1889,
+          "expense": 195,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-97": {
+          "day": 6,
+          "month": 4,
+          "year": 2020,
+          "income": 1574,
+          "expense": 965,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-04-98": {
+          "day": 7,
+          "month": 4,
+          "year": 2020,
+          "income": 2626,
+          "expense": 1350,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-123": {
+          "day": 2,
+          "month": 5,
+          "year": 2020,
+          "income": 1511,
+          "expense": 3550,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-124": {
+          "day": 3,
+          "month": 5,
+          "year": 2020,
+          "income": 393,
+          "expense": 587,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-126": {
+          "day": 5,
+          "month": 5,
+          "year": 2020,
+          "income": 2721,
+          "expense": 1545,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-128": {
+          "day": 7,
+          "month": 5,
+          "year": 2020,
+          "income": 937,
+          "expense": 1130,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-129": {
+          "day": 8,
+          "month": 5,
+          "year": 2020,
+          "income": 2591,
+          "expense": 4002,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-130": {
+          "day": 9,
+          "month": 5,
+          "year": 2020,
+          "income": 3263,
+          "expense": 3579,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-132": {
+          "day": 11,
+          "month": 5,
+          "year": 2020,
+          "income": 43,
+          "expense": 3751,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-134": {
+          "day": 13,
+          "month": 5,
+          "year": 2020,
+          "income": 1910,
+          "expense": 4981,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-135": {
+          "day": 14,
+          "month": 5,
+          "year": 2020,
+          "income": 2685,
+          "expense": 4133,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-138": {
+          "day": 17,
+          "month": 5,
+          "year": 2020,
+          "income": 3309,
+          "expense": 1347,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-140": {
+          "day": 19,
+          "month": 5,
+          "year": 2020,
+          "income": 1064,
+          "expense": 3227,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-145": {
+          "day": 24,
+          "month": 5,
+          "year": 2020,
+          "income": 9024,
+          "expense": 12514,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-146": {
+          "day": 25,
+          "month": 5,
+          "year": 2020,
+          "income": 4519,
+          "expense": 3438,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-147": {
+          "day": 26,
+          "month": 5,
+          "year": 2020,
+          "income": 4033,
+          "expense": 2595,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-05-148": {
+          "day": 27,
+          "month": 5,
+          "year": 2020,
+          "income": 4403,
+          "expense": 4246,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-154": {
+          "day": 2,
+          "month": 6,
+          "year": 2020,
+          "income": 1699,
+          "expense": 135,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-157": {
+          "day": 5,
+          "month": 6,
+          "year": 2020,
+          "income": 2255,
+          "expense": 2059,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-159": {
+          "day": 7,
+          "month": 6,
+          "year": 2020,
+          "income": 4515,
+          "expense": 2929,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-166": {
+          "day": 14,
+          "month": 6,
+          "year": 2020,
+          "income": 3637,
+          "expense": 4813,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-167": {
+          "day": 15,
+          "month": 6,
+          "year": 2020,
+          "income": 4415,
+          "expense": 856,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-168": {
+          "day": 16,
+          "month": 6,
+          "year": 2020,
+          "income": 574,
+          "expense": 3941,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-169": {
+          "day": 17,
+          "month": 6,
+          "year": 2020,
+          "income": 220,
+          "expense": 4450,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-172": {
+          "day": 20,
+          "month": 6,
+          "year": 2020,
+          "income": 7242,
+          "expense": 5581,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-177": {
+          "day": 25,
+          "month": 6,
+          "year": 2020,
+          "income": 4333,
+          "expense": 987,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-178": {
+          "day": 26,
+          "month": 6,
+          "year": 2020,
+          "income": 3197,
+          "expense": 3166,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-179": {
+          "day": 27,
+          "month": 6,
+          "year": 2020,
+          "income": 660,
+          "expense": 1946,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-06-182": {
+          "day": 30,
+          "month": 6,
+          "year": 2020,
+          "income": 12256,
+          "expense": 11628,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-185": {
+          "day": 3,
+          "month": 7,
+          "year": 2020,
+          "income": 4797,
+          "expense": 4472,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-191": {
+          "day": 9,
+          "month": 7,
+          "year": 2020,
+          "income": 3180,
+          "expense": 3838,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-195": {
+          "day": 13,
+          "month": 7,
+          "year": 2020,
+          "income": 1244,
+          "expense": 1317,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-196": {
+          "day": 14,
+          "month": 7,
+          "year": 2020,
+          "income": 2831,
+          "expense": 3240,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-197": {
+          "day": 15,
+          "month": 7,
+          "year": 2020,
+          "income": 4134,
+          "expense": 3299,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-198": {
+          "day": 16,
+          "month": 7,
+          "year": 2020,
+          "income": 3551,
+          "expense": 8130,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-200": {
+          "day": 18,
+          "month": 7,
+          "year": 2020,
+          "income": 4072,
+          "expense": 538,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-201": {
+          "day": 19,
+          "month": 7,
+          "year": 2020,
+          "income": 587,
+          "expense": 944,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-202": {
+          "day": 20,
+          "month": 7,
+          "year": 2020,
+          "income": 2034,
+          "expense": 380,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-203": {
+          "day": 21,
+          "month": 7,
+          "year": 2020,
+          "income": 4045,
+          "expense": 3982,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-206": {
+          "day": 24,
+          "month": 7,
+          "year": 2020,
+          "income": 1135,
+          "expense": 660,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-209": {
+          "day": 27,
+          "month": 7,
+          "year": 2020,
+          "income": 2594,
+          "expense": 976,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-210": {
+          "day": 28,
+          "month": 7,
+          "year": 2020,
+          "income": 3146,
+          "expense": 2070,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-212": {
+          "day": 30,
+          "month": 7,
+          "year": 2020,
+          "income": 4990,
+          "expense": 1259,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-214": {
+          "day": 1,
+          "month": 8,
+          "year": 2020,
+          "income": 4427,
+          "expense": 4226,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-216": {
+          "day": 3,
+          "month": 8,
+          "year": 2020,
+          "income": 6352,
+          "expense": 5349,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-222": {
+          "day": 9,
+          "month": 8,
+          "year": 2020,
+          "income": 3601,
+          "expense": 4911,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-225": {
+          "day": 12,
+          "month": 8,
+          "year": 2020,
+          "income": 4893,
+          "expense": 1609,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-228": {
+          "day": 15,
+          "month": 8,
+          "year": 2020,
+          "income": 1477,
+          "expense": 1952,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-229": {
+          "day": 16,
+          "month": 8,
+          "year": 2020,
+          "income": 3768,
+          "expense": 474,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-230": {
+          "day": 17,
+          "month": 8,
+          "year": 2020,
+          "income": 3448,
+          "expense": 3663,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-234": {
+          "day": 21,
+          "month": 8,
+          "year": 2020,
+          "income": 5190,
+          "expense": 1927,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-237": {
+          "day": 24,
+          "month": 8,
+          "year": 2020,
+          "income": 5069,
+          "expense": 4015,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-239": {
+          "day": 26,
+          "month": 8,
+          "year": 2020,
+          "income": 1047,
+          "expense": 904,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-240": {
+          "day": 27,
+          "month": 8,
+          "year": 2020,
+          "income": 4782,
+          "expense": 6160,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-241": {
+          "day": 28,
+          "month": 8,
+          "year": 2020,
+          "income": 1735,
+          "expense": 3508,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-242": {
+          "day": 29,
+          "month": 8,
+          "year": 2020,
+          "income": 369,
+          "expense": 2204,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-246": {
+          "day": 2,
+          "month": 9,
+          "year": 2020,
+          "income": 2105,
+          "expense": 1643,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-253": {
+          "day": 9,
+          "month": 9,
+          "year": 2020,
+          "income": 7093,
+          "expense": 516,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-255": {
+          "day": 11,
+          "month": 9,
+          "year": 2020,
+          "income": 360,
+          "expense": 4209,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-259": {
+          "day": 15,
+          "month": 9,
+          "year": 2020,
+          "income": 1383,
+          "expense": 1556,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-260": {
+          "day": 16,
+          "month": 9,
+          "year": 2020,
+          "income": 4765,
+          "expense": 2666,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-261": {
+          "day": 17,
+          "month": 9,
+          "year": 2020,
+          "income": 3951,
+          "expense": 6724,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-265": {
+          "day": 21,
+          "month": 9,
+          "year": 2020,
+          "income": 3150,
+          "expense": 1198,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-266": {
+          "day": 22,
+          "month": 9,
+          "year": 2020,
+          "income": 8053,
+          "expense": 5989,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-268": {
+          "day": 24,
+          "month": 9,
+          "year": 2020,
+          "income": 2451,
+          "expense": 4302,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-270": {
+          "day": 26,
+          "month": 9,
+          "year": 2020,
+          "income": 4901,
+          "expense": 3878,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-277": {
+          "day": 3,
+          "month": 10,
+          "year": 2020,
+          "income": 4113,
+          "expense": 3407,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-279": {
+          "day": 5,
+          "month": 10,
+          "year": 2020,
+          "income": 3103,
+          "expense": 4350,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-282": {
+          "day": 8,
+          "month": 10,
+          "year": 2020,
+          "income": 685,
+          "expense": 1220,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-285": {
+          "day": 11,
+          "month": 10,
+          "year": 2020,
+          "income": 1370,
+          "expense": 3144,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-286": {
+          "day": 12,
+          "month": 10,
+          "year": 2020,
+          "income": 7516,
+          "expense": 3846,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-289": {
+          "day": 15,
+          "month": 10,
+          "year": 2020,
+          "income": 4194,
+          "expense": 280,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-290": {
+          "day": 16,
+          "month": 10,
+          "year": 2020,
+          "income": 31,
+          "expense": 4518,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-294": {
+          "day": 20,
+          "month": 10,
+          "year": 2020,
+          "income": 815,
+          "expense": 3427,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-295": {
+          "day": 21,
+          "month": 10,
+          "year": 2020,
+          "income": 1590,
+          "expense": 842,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-296": {
+          "day": 22,
+          "month": 10,
+          "year": 2020,
+          "income": 4167,
+          "expense": 3109,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-299": {
+          "day": 25,
+          "month": 10,
+          "year": 2020,
+          "income": 4186,
+          "expense": 3183,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-303": {
+          "day": 29,
+          "month": 10,
+          "year": 2020,
+          "income": 2480,
+          "expense": 2939,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-306": {
+          "day": 1,
+          "month": 11,
+          "year": 2020,
+          "income": 4024,
+          "expense": 381,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-310": {
+          "day": 5,
+          "month": 11,
+          "year": 2020,
+          "income": 1619,
+          "expense": 2566,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-311": {
+          "day": 6,
+          "month": 11,
+          "year": 2020,
+          "income": 6687,
+          "expense": 5598,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-312": {
+          "day": 7,
+          "month": 11,
+          "year": 2020,
+          "income": 4803,
+          "expense": 4949,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-313": {
+          "day": 8,
+          "month": 11,
+          "year": 2020,
+          "income": 1093,
+          "expense": 2588,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-315": {
+          "day": 10,
+          "month": 11,
+          "year": 2020,
+          "income": 1827,
+          "expense": 1185,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-316": {
+          "day": 11,
+          "month": 11,
+          "year": 2020,
+          "income": 4194,
+          "expense": 5342,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-318": {
+          "day": 13,
+          "month": 11,
+          "year": 2020,
+          "income": 6046,
+          "expense": 5590,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-319": {
+          "day": 14,
+          "month": 11,
+          "year": 2020,
+          "income": 2058,
+          "expense": 4133,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-323": {
+          "day": 18,
+          "month": 11,
+          "year": 2020,
+          "income": 5287,
+          "expense": 4541,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-324": {
+          "day": 19,
+          "month": 11,
+          "year": 2020,
+          "income": 6557,
+          "expense": 5826,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-325": {
+          "day": 20,
+          "month": 11,
+          "year": 2020,
+          "income": 3595,
+          "expense": 4411,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-326": {
+          "day": 21,
+          "month": 11,
+          "year": 2020,
+          "income": 2789,
+          "expense": 4567,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-328": {
+          "day": 23,
+          "month": 11,
+          "year": 2020,
+          "income": 4052,
+          "expense": 1343,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-333": {
+          "day": 28,
+          "month": 11,
+          "year": 2020,
+          "income": 4178,
+          "expense": 1239,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-338": {
+          "day": 3,
+          "month": 12,
+          "year": 2020,
+          "income": 3868,
+          "expense": 2887,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-342": {
+          "day": 7,
+          "month": 12,
+          "year": 2020,
+          "income": 4728,
+          "expense": 1071,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-343": {
+          "day": 8,
+          "month": 12,
+          "year": 2020,
+          "income": 1380,
+          "expense": 2334,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-345": {
+          "day": 10,
+          "month": 12,
+          "year": 2020,
+          "income": 1175,
+          "expense": 613,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-348": {
+          "day": 13,
+          "month": 12,
+          "year": 2020,
+          "income": 3462,
+          "expense": 4068,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-349": {
+          "day": 14,
+          "month": 12,
+          "year": 2020,
+          "income": 922,
+          "expense": 2902,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-350": {
+          "day": 15,
+          "month": 12,
+          "year": 2020,
+          "income": 4268,
+          "expense": 5819,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-352": {
+          "day": 17,
+          "month": 12,
+          "year": 2020,
+          "income": 5182,
+          "expense": 3401,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-355": {
+          "day": 20,
+          "month": 12,
+          "year": 2020,
+          "income": 3128,
+          "expense": 2129,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-356": {
+          "day": 21,
+          "month": 12,
+          "year": 2020,
+          "income": 906,
+          "expense": 2098,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-357": {
+          "day": 22,
+          "month": 12,
+          "year": 2020,
+          "income": 1209,
+          "expense": 4050,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-358": {
+          "day": 23,
+          "month": 12,
+          "year": 2020,
+          "income": 4183,
+          "expense": 544,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-360": {
+          "day": 25,
+          "month": 12,
+          "year": 2020,
+          "income": 2295,
+          "expense": 3249,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-362": {
+          "day": 27,
+          "month": 12,
+          "year": 2020,
+          "income": 2904,
+          "expense": 1457,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-364": {
+          "day": 29,
+          "month": 12,
+          "year": 2020,
+          "income": 1389,
+          "expense": 1806,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-12-365": {
+          "day": 30,
+          "month": 12,
+          "year": 2020,
+          "income": 4217,
+          "expense": 4366,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2021,
+          "income": 3493,
+          "expense": 3009,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-08": {
+          "day": 8,
+          "month": 1,
+          "year": 2021,
+          "income": 2901,
+          "expense": 526,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-11": {
+          "day": 11,
+          "month": 1,
+          "year": 2021,
+          "income": 4548,
+          "expense": 850,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-12": {
+          "day": 12,
+          "month": 1,
+          "year": 2021,
+          "income": 4981,
+          "expense": 3004,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-16": {
+          "day": 16,
+          "month": 1,
+          "year": 2021,
+          "income": 2286,
+          "expense": 1540,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-19": {
+          "day": 19,
+          "month": 1,
+          "year": 2021,
+          "income": 7900,
+          "expense": 8390,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-21": {
+          "day": 21,
+          "month": 1,
+          "year": 2021,
+          "income": 4592,
+          "expense": 588,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-22": {
+          "day": 22,
+          "month": 1,
+          "year": 2021,
+          "income": 1823,
+          "expense": 3566,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-26": {
+          "day": 26,
+          "month": 1,
+          "year": 2021,
+          "income": 5309,
+          "expense": 5082,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-27": {
+          "day": 27,
+          "month": 1,
+          "year": 2021,
+          "income": 2220,
+          "expense": 3081,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-29": {
+          "day": 29,
+          "month": 1,
+          "year": 2021,
+          "income": 1327,
+          "expense": 4830,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-34": {
+          "day": 3,
+          "month": 2,
+          "year": 2021,
+          "income": 2244,
+          "expense": 5621,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-37": {
+          "day": 6,
+          "month": 2,
+          "year": 2021,
+          "income": 4930,
+          "expense": 2861,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-39": {
+          "day": 8,
+          "month": 2,
+          "year": 2021,
+          "income": 3662,
+          "expense": 1136,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-41": {
+          "day": 10,
+          "month": 2,
+          "year": 2021,
+          "income": 854,
+          "expense": 2905,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-43": {
+          "day": 12,
+          "month": 2,
+          "year": 2021,
+          "income": 4027,
+          "expense": 3873,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-49": {
+          "day": 18,
+          "month": 2,
+          "year": 2021,
+          "income": 1809,
+          "expense": 4853,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-53": {
+          "day": 22,
+          "month": 2,
+          "year": 2021,
+          "income": 3115,
+          "expense": 2761,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-54": {
+          "day": 23,
+          "month": 2,
+          "year": 2021,
+          "income": 1456,
+          "expense": 4217,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-55": {
+          "day": 24,
+          "month": 2,
+          "year": 2021,
+          "income": 3915,
+          "expense": 1013,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-58": {
+          "day": 27,
+          "month": 2,
+          "year": 2021,
+          "income": 1036,
+          "expense": 1993,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-59": {
+          "day": 28,
+          "month": 2,
+          "year": 2021,
+          "income": 2844,
+          "expense": 346,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-60": {
+          "day": 1,
+          "month": 3,
+          "year": 2021,
+          "income": 3058,
+          "expense": 377,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-61": {
+          "day": 30,
+          "month": 2,
+          "year": 2021,
+          "income": 4603,
+          "expense": 2328,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-64": {
+          "day": 5,
+          "month": 3,
+          "year": 2021,
+          "income": 2280,
+          "expense": 1848,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-65": {
+          "day": 6,
+          "month": 3,
+          "year": 2021,
+          "income": 1897,
+          "expense": 3577,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-66": {
+          "day": 7,
+          "month": 3,
+          "year": 2021,
+          "income": 1963,
+          "expense": 1732,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-69": {
+          "day": 10,
+          "month": 3,
+          "year": 2021,
+          "income": 608,
+          "expense": 4856,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-71": {
+          "day": 12,
+          "month": 3,
+          "year": 2021,
+          "income": 2850,
+          "expense": 2746,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-72": {
+          "day": 13,
+          "month": 3,
+          "year": 2021,
+          "income": 6421,
+          "expense": 4564,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-73": {
+          "day": 14,
+          "month": 3,
+          "year": 2021,
+          "income": 1155,
+          "expense": 198,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-75": {
+          "day": 16,
+          "month": 3,
+          "year": 2021,
+          "income": 4843,
+          "expense": 7354,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-78": {
+          "day": 19,
+          "month": 3,
+          "year": 2021,
+          "income": 4411,
+          "expense": 3238,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-80": {
+          "day": 21,
+          "month": 3,
+          "year": 2021,
+          "income": 3320,
+          "expense": 4878,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-82": {
+          "day": 23,
+          "month": 3,
+          "year": 2021,
+          "income": 1011,
+          "expense": 308,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-83": {
+          "day": 24,
+          "month": 3,
+          "year": 2021,
+          "income": 1550,
+          "expense": 3096,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-84": {
+          "day": 25,
+          "month": 3,
+          "year": 2021,
+          "income": 2567,
+          "expense": 559,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-87": {
+          "day": 28,
+          "month": 3,
+          "year": 2021,
+          "income": 7887,
+          "expense": 4602,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-100": {
+          "day": 10,
+          "month": 4,
+          "year": 2021,
+          "income": 5068,
+          "expense": 3523,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-102": {
+          "day": 12,
+          "month": 4,
+          "year": 2021,
+          "income": 1983,
+          "expense": 2471,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-106": {
+          "day": 16,
+          "month": 4,
+          "year": 2021,
+          "income": 358,
+          "expense": 2164,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-107": {
+          "day": 17,
+          "month": 4,
+          "year": 2021,
+          "income": 3979,
+          "expense": 769,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-109": {
+          "day": 19,
+          "month": 4,
+          "year": 2021,
+          "income": 4208,
+          "expense": 1334,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-110": {
+          "day": 20,
+          "month": 4,
+          "year": 2021,
+          "income": 2455,
+          "expense": 1618,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-111": {
+          "day": 21,
+          "month": 4,
+          "year": 2021,
+          "income": 3629,
+          "expense": 2946,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-116": {
+          "day": 26,
+          "month": 4,
+          "year": 2021,
+          "income": 2643,
+          "expense": 9,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-117": {
+          "day": 27,
+          "month": 4,
+          "year": 2021,
+          "income": 4563,
+          "expense": 3380,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-119": {
+          "day": 29,
+          "month": 4,
+          "year": 2021,
+          "income": 3223,
+          "expense": 3262,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-94": {
+          "day": 4,
+          "month": 4,
+          "year": 2021,
+          "income": 5805,
+          "expense": 9142,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-98": {
+          "day": 8,
+          "month": 4,
+          "year": 2021,
+          "income": 4176,
+          "expense": 1325,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-123": {
+          "day": 3,
+          "month": 5,
+          "year": 2021,
+          "income": 3789,
+          "expense": 2844,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-124": {
+          "day": 4,
+          "month": 5,
+          "year": 2021,
+          "income": 4796,
+          "expense": 595,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-137": {
+          "day": 17,
+          "month": 5,
+          "year": 2021,
+          "income": 3805,
+          "expense": 4605,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-139": {
+          "day": 19,
+          "month": 5,
+          "year": 2021,
+          "income": 2327,
+          "expense": 6975,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-141": {
+          "day": 21,
+          "month": 5,
+          "year": 2021,
+          "income": 4334,
+          "expense": 4566,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-143": {
+          "day": 23,
+          "month": 5,
+          "year": 2021,
+          "income": 6757,
+          "expense": 9327,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-147": {
+          "day": 27,
+          "month": 5,
+          "year": 2021,
+          "income": 6483,
+          "expense": 5728,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-150": {
+          "day": 30,
+          "month": 5,
+          "year": 2021,
+          "income": 4575,
+          "expense": 4982,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-153": {
+          "day": 2,
+          "month": 6,
+          "year": 2021,
+          "income": 4344,
+          "expense": 3318,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-154": {
+          "day": 3,
+          "month": 6,
+          "year": 2021,
+          "income": 4615,
+          "expense": 582,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-156": {
+          "day": 5,
+          "month": 6,
+          "year": 2021,
+          "income": 1900,
+          "expense": 4630,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-159": {
+          "day": 8,
+          "month": 6,
+          "year": 2021,
+          "income": 1662,
+          "expense": 1264,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-160": {
+          "day": 9,
+          "month": 6,
+          "year": 2021,
+          "income": 3421,
+          "expense": 2696,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-162": {
+          "day": 11,
+          "month": 6,
+          "year": 2021,
+          "income": 2936,
+          "expense": 4302,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-164": {
+          "day": 13,
+          "month": 6,
+          "year": 2021,
+          "income": 2289,
+          "expense": 3444,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-165": {
+          "day": 14,
+          "month": 6,
+          "year": 2021,
+          "income": 494,
+          "expense": 133,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-166": {
+          "day": 15,
+          "month": 6,
+          "year": 2021,
+          "income": 2352,
+          "expense": 172,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-171": {
+          "day": 20,
+          "month": 6,
+          "year": 2021,
+          "income": 644,
+          "expense": 4599,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-172": {
+          "day": 21,
+          "month": 6,
+          "year": 2021,
+          "income": 3180,
+          "expense": 5168,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-173": {
+          "day": 22,
+          "month": 6,
+          "year": 2021,
+          "income": 7059,
+          "expense": 7073,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-174": {
+          "day": 23,
+          "month": 6,
+          "year": 2021,
+          "income": 4919,
+          "expense": 22,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-176": {
+          "day": 25,
+          "month": 6,
+          "year": 2021,
+          "income": 3179,
+          "expense": 3677,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-178": {
+          "day": 27,
+          "month": 6,
+          "year": 2021,
+          "income": 3118,
+          "expense": 1552,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-179": {
+          "day": 28,
+          "month": 6,
+          "year": 2021,
+          "income": 4325,
+          "expense": 2050,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-180": {
+          "day": 29,
+          "month": 6,
+          "year": 2021,
+          "income": 107,
+          "expense": 4758,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-181": {
+          "day": 30,
+          "month": 6,
+          "year": 2021,
+          "income": 3940,
+          "expense": 1729,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-183": {
+          "day": 2,
+          "month": 7,
+          "year": 2021,
+          "income": 1653,
+          "expense": 4116,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-184": {
+          "day": 3,
+          "month": 7,
+          "year": 2021,
+          "income": 4036,
+          "expense": 2987,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-185": {
+          "day": 4,
+          "month": 7,
+          "year": 2021,
+          "income": 1573,
+          "expense": 3151,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-186": {
+          "day": 5,
+          "month": 7,
+          "year": 2021,
+          "income": 2781,
+          "expense": 4329,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-188": {
+          "day": 7,
+          "month": 7,
+          "year": 2021,
+          "income": 1325,
+          "expense": 3711,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-189": {
+          "day": 8,
+          "month": 7,
+          "year": 2021,
+          "income": 1451,
+          "expense": 4352,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-190": {
+          "day": 9,
+          "month": 7,
+          "year": 2021,
+          "income": 1637,
+          "expense": 4398,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-191": {
+          "day": 10,
+          "month": 7,
+          "year": 2021,
+          "income": 4739,
+          "expense": 2289,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-192": {
+          "day": 11,
+          "month": 7,
+          "year": 2021,
+          "income": 3426,
+          "expense": 657,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-193": {
+          "day": 12,
+          "month": 7,
+          "year": 2021,
+          "income": 1333,
+          "expense": 972,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-194": {
+          "day": 13,
+          "month": 7,
+          "year": 2021,
+          "income": 1231,
+          "expense": 2571,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-200": {
+          "day": 19,
+          "month": 7,
+          "year": 2021,
+          "income": 992,
+          "expense": 765,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-201": {
+          "day": 20,
+          "month": 7,
+          "year": 2021,
+          "income": 6,
+          "expense": 2862,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-207": {
+          "day": 26,
+          "month": 7,
+          "year": 2021,
+          "income": 4765,
+          "expense": 28,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-210": {
+          "day": 29,
+          "month": 7,
+          "year": 2021,
+          "income": 58,
+          "expense": 4020,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-214": {
+          "day": 2,
+          "month": 8,
+          "year": 2021,
+          "income": 823,
+          "expense": 3436,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-215": {
+          "day": 3,
+          "month": 8,
+          "year": 2021,
+          "income": 5407,
+          "expense": 2772,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-217": {
+          "day": 5,
+          "month": 8,
+          "year": 2021,
+          "income": 1454,
+          "expense": 1007,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-219": {
+          "day": 7,
+          "month": 8,
+          "year": 2021,
+          "income": 10631,
+          "expense": 5647,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-220": {
+          "day": 8,
+          "month": 8,
+          "year": 2021,
+          "income": 4015,
+          "expense": 4647,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-223": {
+          "day": 11,
+          "month": 8,
+          "year": 2021,
+          "income": 3714,
+          "expense": 3101,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-226": {
+          "day": 14,
+          "month": 8,
+          "year": 2021,
+          "income": 698,
+          "expense": 4809,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-228": {
+          "day": 16,
+          "month": 8,
+          "year": 2021,
+          "income": 1798,
+          "expense": 4616,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-230": {
+          "day": 18,
+          "month": 8,
+          "year": 2021,
+          "income": 1208,
+          "expense": 2241,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-235": {
+          "day": 23,
+          "month": 8,
+          "year": 2021,
+          "income": 4273,
+          "expense": 4127,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-236": {
+          "day": 24,
+          "month": 8,
+          "year": 2021,
+          "income": 2886,
+          "expense": 1877,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-238": {
+          "day": 26,
+          "month": 8,
+          "year": 2021,
+          "income": 7,
+          "expense": 2236,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-240": {
+          "day": 28,
+          "month": 8,
+          "year": 2021,
+          "income": 7214,
+          "expense": 7853,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-242": {
+          "day": 30,
+          "month": 8,
+          "year": 2021,
+          "income": 3214,
+          "expense": 4004,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-244": {
+          "day": 1,
+          "month": 9,
+          "year": 2021,
+          "income": 3910,
+          "expense": 4186,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-247": {
+          "day": 4,
+          "month": 9,
+          "year": 2021,
+          "income": 4108,
+          "expense": 1190,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-248": {
+          "day": 5,
+          "month": 9,
+          "year": 2021,
+          "income": 2783,
+          "expense": 3628,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-253": {
+          "day": 10,
+          "month": 9,
+          "year": 2021,
+          "income": 3100,
+          "expense": 1500,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-255": {
+          "day": 12,
+          "month": 9,
+          "year": 2021,
+          "income": 3037,
+          "expense": 760,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-257": {
+          "day": 14,
+          "month": 9,
+          "year": 2021,
+          "income": 6640,
+          "expense": 4835,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-259": {
+          "day": 16,
+          "month": 9,
+          "year": 2021,
+          "income": 766,
+          "expense": 4567,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-260": {
+          "day": 17,
+          "month": 9,
+          "year": 2021,
+          "income": 5273,
+          "expense": 1592,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-261": {
+          "day": 18,
+          "month": 9,
+          "year": 2021,
+          "income": 5598,
+          "expense": 7765,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-264": {
+          "day": 21,
+          "month": 9,
+          "year": 2021,
+          "income": 3516,
+          "expense": 4272,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-265": {
+          "day": 22,
+          "month": 9,
+          "year": 2021,
+          "income": 6711,
+          "expense": 8534,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-269": {
+          "day": 26,
+          "month": 9,
+          "year": 2021,
+          "income": 2370,
+          "expense": 4995,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-274": {
+          "day": 1,
+          "month": 10,
+          "year": 2021,
+          "income": 1221,
+          "expense": 4477,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-276": {
+          "day": 3,
+          "month": 10,
+          "year": 2021,
+          "income": 2956,
+          "expense": 3132,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-277": {
+          "day": 4,
+          "month": 10,
+          "year": 2021,
+          "income": 3701,
+          "expense": 4193,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-279": {
+          "day": 6,
+          "month": 10,
+          "year": 2021,
+          "income": 4863,
+          "expense": 90,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-283": {
+          "day": 10,
+          "month": 10,
+          "year": 2021,
+          "income": 3328,
+          "expense": 4118,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-284": {
+          "day": 11,
+          "month": 10,
+          "year": 2021,
+          "income": 1741,
+          "expense": 3925,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-285": {
+          "day": 12,
+          "month": 10,
+          "year": 2021,
+          "income": 1568,
+          "expense": 209,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-290": {
+          "day": 17,
+          "month": 10,
+          "year": 2021,
+          "income": 294,
+          "expense": 1812,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-291": {
+          "day": 18,
+          "month": 10,
+          "year": 2021,
+          "income": 717,
+          "expense": 3716,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-293": {
+          "day": 20,
+          "month": 10,
+          "year": 2021,
+          "income": 2192,
+          "expense": 3104,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-297": {
+          "day": 24,
+          "month": 10,
+          "year": 2021,
+          "income": 3006,
+          "expense": 5169,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-299": {
+          "day": 26,
+          "month": 10,
+          "year": 2021,
+          "income": 349,
+          "expense": 3630,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-300": {
+          "day": 27,
+          "month": 10,
+          "year": 2021,
+          "income": 1660,
+          "expense": 196,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-302": {
+          "day": 29,
+          "month": 10,
+          "year": 2021,
+          "income": 4630,
+          "expense": 1173,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-307": {
+          "day": 3,
+          "month": 11,
+          "year": 2021,
+          "income": 4740,
+          "expense": 2393,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-308": {
+          "day": 4,
+          "month": 11,
+          "year": 2021,
+          "income": 361,
+          "expense": 4815,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-311": {
+          "day": 7,
+          "month": 11,
+          "year": 2021,
+          "income": 3210,
+          "expense": 2671,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-312": {
+          "day": 8,
+          "month": 11,
+          "year": 2021,
+          "income": 249,
+          "expense": 792,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-314": {
+          "day": 10,
+          "month": 11,
+          "year": 2021,
+          "income": 2165,
+          "expense": 4496,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-315": {
+          "day": 11,
+          "month": 11,
+          "year": 2021,
+          "income": 3730,
+          "expense": 2817,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-316": {
+          "day": 12,
+          "month": 11,
+          "year": 2021,
+          "income": 81,
+          "expense": 4171,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-317": {
+          "day": 13,
+          "month": 11,
+          "year": 2021,
+          "income": 5844,
+          "expense": 2501,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-320": {
+          "day": 16,
+          "month": 11,
+          "year": 2021,
+          "income": 4343,
+          "expense": 4657,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-321": {
+          "day": 17,
+          "month": 11,
+          "year": 2021,
+          "income": 4144,
+          "expense": 1458,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-322": {
+          "day": 18,
+          "month": 11,
+          "year": 2021,
+          "income": 4803,
+          "expense": 122,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-323": {
+          "day": 19,
+          "month": 11,
+          "year": 2021,
+          "income": 9179,
+          "expense": 1717,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-324": {
+          "day": 20,
+          "month": 11,
+          "year": 2021,
+          "income": 10386,
+          "expense": 6420,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-326": {
+          "day": 22,
+          "month": 11,
+          "year": 2021,
+          "income": 2564,
+          "expense": 2729,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-328": {
+          "day": 24,
+          "month": 11,
+          "year": 2021,
+          "income": 1267,
+          "expense": 1924,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-335": {
+          "day": 1,
+          "month": 12,
+          "year": 2021,
+          "income": 4494,
+          "expense": 7923,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-336": {
+          "day": 2,
+          "month": 12,
+          "year": 2021,
+          "income": 1557,
+          "expense": 3268,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-342": {
+          "day": 8,
+          "month": 12,
+          "year": 2021,
+          "income": 5019,
+          "expense": 8462,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-343": {
+          "day": 9,
+          "month": 12,
+          "year": 2021,
+          "income": 4750,
+          "expense": 4488,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-347": {
+          "day": 13,
+          "month": 12,
+          "year": 2021,
+          "income": 3391,
+          "expense": 3512,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-349": {
+          "day": 15,
+          "month": 12,
+          "year": 2021,
+          "income": 2714,
+          "expense": 545,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-351": {
+          "day": 17,
+          "month": 12,
+          "year": 2021,
+          "income": 856,
+          "expense": 765,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-352": {
+          "day": 18,
+          "month": 12,
+          "year": 2021,
+          "income": 4115,
+          "expense": 4795,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-356": {
+          "day": 22,
+          "month": 12,
+          "year": 2021,
+          "income": 2983,
+          "expense": 3739,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-360": {
+          "day": 26,
+          "month": 12,
+          "year": 2021,
+          "income": 3813,
+          "expense": 4035,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-361": {
+          "day": 27,
+          "month": 12,
+          "year": 2021,
+          "income": 4100,
+          "expense": 3938,
+          "dateAdded": "2021-01-11"
+        }
+      },
+      "login": "t",
+      "password": "t"
+    },
+    "b": {
+      "treeMapUserData": {
+        "2020-01-01": {
+          "day": 1,
+          "month": 1,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-05": {
+          "day": 5,
+          "month": 1,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-01": {
+          "day": 1,
+          "month": 2,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-02": {
+          "day": 2,
+          "month": 2,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-03": {
+          "day": 3,
+          "month": 2,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-04": {
+          "day": 4,
+          "month": 2,
+          "year": 2020,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-01": {
+          "day": 1,
+          "month": 1,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-05": {
+          "day": 5,
+          "month": 1,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-01": {
+          "day": 1,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-02": {
+          "day": 2,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-03": {
+          "day": 3,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2021,
+          "income": 200,
+          "expense": 20,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2020,
+          "income": 200,
+          "expense": 20,
+          "dateAdded": "2021-01-11"
+        }
+      },
+      "login": "b",
+      "password": "b"
+    },
+    "c": {
+      "treeMapUserData": {
+        "2021-01-01": {
+          "day": 1,
+          "month": 1,
+          "year": 2021,
+          "income": 10,
+          "expense": 5,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2021,
+          "income": 20,
+          "expense": 10,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-03": {
+          "day": 3,
+          "month": 1,
+          "year": 2021,
+          "income": 40,
+          "expense": 15,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2021,
+          "income": 60,
+          "expense": 25,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-05": {
+          "day": 5,
+          "month": 1,
+          "year": 2021,
+          "income": 80,
+          "expense": 40,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2021,
+          "income": 120,
+          "expense": 60,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-01": {
+          "day": 1,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 10,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-02": {
+          "day": 2,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 10,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-03": {
+          "day": 3,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 10,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-04": {
+          "day": 4,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 10,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-05": {
+          "day": 5,
+          "month": 2,
+          "year": 2021,
+          "income": 10,
+          "expense": 10,
+          "dateAdded": "2021-01-11"
+        }
+      },
+      "login": "c",
+      "password": "c"
+    },
+    "d": {
+      "treeMapUserData": {
+        "2016-01-25": {
+          "day": 25,
+          "month": 1,
+          "year": 2016,
+          "income": 301,
+          "expense": 617,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-03-16": {
+          "day": 16,
+          "month": 3,
+          "year": 2016,
+          "income": 1222,
+          "expense": 9,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-05-08": {
+          "day": 8,
+          "month": 5,
+          "year": 2016,
+          "income": 1948,
+          "expense": 997,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-05-13": {
+          "day": 13,
+          "month": 5,
+          "year": 2016,
+          "income": 1782,
+          "expense": 699,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-06-20": {
+          "day": 20,
+          "month": 6,
+          "year": 2016,
+          "income": 1900,
+          "expense": 982,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-06-29": {
+          "day": 29,
+          "month": 6,
+          "year": 2016,
+          "income": 941,
+          "expense": 162,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-07-23": {
+          "day": 23,
+          "month": 7,
+          "year": 2016,
+          "income": 1641,
+          "expense": 41,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-09-11": {
+          "day": 11,
+          "month": 9,
+          "year": 2016,
+          "income": 1086,
+          "expense": 844,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-09-14": {
+          "day": 14,
+          "month": 9,
+          "year": 2016,
+          "income": 451,
+          "expense": 282,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-09-22": {
+          "day": 22,
+          "month": 9,
+          "year": 2016,
+          "income": 1698,
+          "expense": 490,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-10-04": {
+          "day": 4,
+          "month": 10,
+          "year": 2016,
+          "income": 902,
+          "expense": 623,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-10-09": {
+          "day": 9,
+          "month": 10,
+          "year": 2016,
+          "income": 497,
+          "expense": 87,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-11-08": {
+          "day": 8,
+          "month": 11,
+          "year": 2016,
+          "income": 1379,
+          "expense": 772,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-11-10": {
+          "day": 10,
+          "month": 11,
+          "year": 2016,
+          "income": 462,
+          "expense": 606,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-11-13": {
+          "day": 13,
+          "month": 11,
+          "year": 2016,
+          "income": 1322,
+          "expense": 906,
+          "dateAdded": "2021-01-11"
+        },
+        "2016-12-24": {
+          "day": 24,
+          "month": 12,
+          "year": 2016,
+          "income": 116,
+          "expense": 889,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-02-09": {
+          "day": 9,
+          "month": 2,
+          "year": 2017,
+          "income": 385,
+          "expense": 405,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-04": {
+          "day": 4,
+          "month": 3,
+          "year": 2017,
+          "income": 22,
+          "expense": 43,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-06": {
+          "day": 6,
+          "month": 3,
+          "year": 2017,
+          "income": 1618,
+          "expense": 131,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-03-10": {
+          "day": 10,
+          "month": 3,
+          "year": 2017,
+          "income": 1678,
+          "expense": 300,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-05": {
+          "day": 5,
+          "month": 4,
+          "year": 2017,
+          "income": 944,
+          "expense": 305,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-04-24": {
+          "day": 24,
+          "month": 4,
+          "year": 2017,
+          "income": 388,
+          "expense": 142,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-19": {
+          "day": 19,
+          "month": 7,
+          "year": 2017,
+          "income": 1366,
+          "expense": 728,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-07-26": {
+          "day": 26,
+          "month": 7,
+          "year": 2017,
+          "income": 1231,
+          "expense": 426,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-08-01": {
+          "day": 1,
+          "month": 8,
+          "year": 2017,
+          "income": 352,
+          "expense": 437,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-10": {
+          "day": 10,
+          "month": 9,
+          "year": 2017,
+          "income": 626,
+          "expense": 731,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-09-25": {
+          "day": 25,
+          "month": 9,
+          "year": 2017,
+          "income": 910,
+          "expense": 647,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-06": {
+          "day": 6,
+          "month": 10,
+          "year": 2017,
+          "income": 1657,
+          "expense": 119,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-09": {
+          "day": 9,
+          "month": 10,
+          "year": 2017,
+          "income": 1098,
+          "expense": 693,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-16": {
+          "day": 16,
+          "month": 10,
+          "year": 2017,
+          "income": 545,
+          "expense": 793,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-23": {
+          "day": 23,
+          "month": 10,
+          "year": 2017,
+          "income": 884,
+          "expense": 706,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-10-26": {
+          "day": 26,
+          "month": 10,
+          "year": 2017,
+          "income": 1396,
+          "expense": 732,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-11-12": {
+          "day": 12,
+          "month": 11,
+          "year": 2017,
+          "income": 456,
+          "expense": 861,
+          "dateAdded": "2021-01-11"
+        },
+        "2017-12-25": {
+          "day": 25,
+          "month": 12,
+          "year": 2017,
+          "income": 101,
+          "expense": 814,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-02": {
+          "day": 2,
+          "month": 1,
+          "year": 2018,
+          "income": 1802,
+          "expense": 164,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-23": {
+          "day": 23,
+          "month": 1,
+          "year": 2018,
+          "income": 1279,
+          "expense": 65,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-27": {
+          "day": 27,
+          "month": 1,
+          "year": 2018,
+          "income": 1119,
+          "expense": 337,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-01-30": {
+          "day": 30,
+          "month": 1,
+          "year": 2018,
+          "income": 688,
+          "expense": 233,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-16": {
+          "day": 16,
+          "month": 2,
+          "year": 2018,
+          "income": 1425,
+          "expense": 468,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-02-22": {
+          "day": 22,
+          "month": 2,
+          "year": 2018,
+          "income": 1540,
+          "expense": 482,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-01": {
+          "day": 29,
+          "month": 2,
+          "year": 2018,
+          "income": 163,
+          "expense": 574,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-02": {
+          "day": 30,
+          "month": 2,
+          "year": 2018,
+          "income": 290,
+          "expense": 34,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-07": {
+          "day": 7,
+          "month": 3,
+          "year": 2018,
+          "income": 1776,
+          "expense": 652,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-03-12": {
+          "day": 12,
+          "month": 3,
+          "year": 2018,
+          "income": 1339,
+          "expense": 453,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-04-21": {
+          "day": 21,
+          "month": 4,
+          "year": 2018,
+          "income": 1148,
+          "expense": 548,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-08": {
+          "day": 8,
+          "month": 5,
+          "year": 2018,
+          "income": 701,
+          "expense": 329,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-20": {
+          "day": 20,
+          "month": 5,
+          "year": 2018,
+          "income": 2819,
+          "expense": 595,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-25": {
+          "day": 25,
+          "month": 5,
+          "year": 2018,
+          "income": 107,
+          "expense": 236,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-05-30": {
+          "day": 30,
+          "month": 5,
+          "year": 2018,
+          "income": 771,
+          "expense": 129,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-07-14": {
+          "day": 14,
+          "month": 7,
+          "year": 2018,
+          "income": 1245,
+          "expense": 602,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-19": {
+          "day": 19,
+          "month": 8,
+          "year": 2018,
+          "income": 196,
+          "expense": 300,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-08-25": {
+          "day": 25,
+          "month": 8,
+          "year": 2018,
+          "income": 906,
+          "expense": 946,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-10-16": {
+          "day": 16,
+          "month": 10,
+          "year": 2018,
+          "income": 40,
+          "expense": 416,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-11-11": {
+          "day": 11,
+          "month": 11,
+          "year": 2018,
+          "income": 803,
+          "expense": 243,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-02": {
+          "day": 2,
+          "month": 12,
+          "year": 2018,
+          "income": 1228,
+          "expense": 716,
+          "dateAdded": "2021-01-11"
+        },
+        "2018-12-11": {
+          "day": 11,
+          "month": 12,
+          "year": 2018,
+          "income": 1299,
+          "expense": 387,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-01-24": {
+          "day": 24,
+          "month": 1,
+          "year": 2019,
+          "income": 887,
+          "expense": 280,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-01": {
+          "day": 29,
+          "month": 2,
+          "year": 2019,
+          "income": 906,
+          "expense": 295,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-17": {
+          "day": 17,
+          "month": 3,
+          "year": 2019,
+          "income": 287,
+          "expense": 577,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-03-21": {
+          "day": 21,
+          "month": 3,
+          "year": 2019,
+          "income": 799,
+          "expense": 92,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-02": {
+          "day": 2,
+          "month": 4,
+          "year": 2019,
+          "income": 110,
+          "expense": 978,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-22": {
+          "day": 22,
+          "month": 4,
+          "year": 2019,
+          "income": 889,
+          "expense": 309,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-04-30": {
+          "day": 30,
+          "month": 4,
+          "year": 2019,
+          "income": 1948,
+          "expense": 292,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-06-06": {
+          "day": 6,
+          "month": 6,
+          "year": 2019,
+          "income": 1842,
+          "expense": 175,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-07-12": {
+          "day": 12,
+          "month": 7,
+          "year": 2019,
+          "income": 86,
+          "expense": 579,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-13": {
+          "day": 13,
+          "month": 8,
+          "year": 2019,
+          "income": 689,
+          "expense": 287,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-08-17": {
+          "day": 17,
+          "month": 8,
+          "year": 2019,
+          "income": 1422,
+          "expense": 786,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-08": {
+          "day": 8,
+          "month": 9,
+          "year": 2019,
+          "income": 1177,
+          "expense": 127,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-09-13": {
+          "day": 13,
+          "month": 9,
+          "year": 2019,
+          "income": 1825,
+          "expense": 890,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-11-19": {
+          "day": 19,
+          "month": 11,
+          "year": 2019,
+          "income": 1547,
+          "expense": 284,
+          "dateAdded": "2021-01-11"
+        },
+        "2019-12-07": {
+          "day": 7,
+          "month": 12,
+          "year": 2019,
+          "income": 267,
+          "expense": 350,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-01-04": {
+          "day": 4,
+          "month": 1,
+          "year": 2020,
+          "income": 810,
+          "expense": 662,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-08": {
+          "day": 8,
+          "month": 2,
+          "year": 2020,
+          "income": 623,
+          "expense": 956,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-02-28": {
+          "day": 28,
+          "month": 2,
+          "year": 2020,
+          "income": 690,
+          "expense": 989,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-03-17": {
+          "day": 17,
+          "month": 3,
+          "year": 2020,
+          "income": 193,
+          "expense": 678,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-07-09": {
+          "day": 9,
+          "month": 7,
+          "year": 2020,
+          "income": 1761,
+          "expense": 287,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-08-30": {
+          "day": 30,
+          "month": 8,
+          "year": 2020,
+          "income": 1797,
+          "expense": 600,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-09": {
+          "day": 9,
+          "month": 9,
+          "year": 2020,
+          "income": 663,
+          "expense": 548,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-09-30": {
+          "day": 30,
+          "month": 9,
+          "year": 2020,
+          "income": 1521,
+          "expense": 115,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-09": {
+          "day": 9,
+          "month": 10,
+          "year": 2020,
+          "income": 1689,
+          "expense": 958,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-13": {
+          "day": 13,
+          "month": 10,
+          "year": 2020,
+          "income": 984,
+          "expense": 708,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-10-28": {
+          "day": 28,
+          "month": 10,
+          "year": 2020,
+          "income": 1807,
+          "expense": 359,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-21": {
+          "day": 21,
+          "month": 11,
+          "year": 2020,
+          "income": 898,
+          "expense": 61,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-22": {
+          "day": 22,
+          "month": 11,
+          "year": 2020,
+          "income": 1279,
+          "expense": 260,
+          "dateAdded": "2021-01-11"
+        },
+        "2020-11-29": {
+          "day": 29,
+          "month": 11,
+          "year": 2020,
+          "income": 120,
+          "expense": 199,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-04": {
+          "day": 4,
+          "month": 2,
+          "year": 2021,
+          "income": 1990,
+          "expense": 603,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-08": {
+          "day": 8,
+          "month": 2,
+          "year": 2021,
+          "income": 2585,
+          "expense": 1334,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-11": {
+          "day": 11,
+          "month": 2,
+          "year": 2021,
+          "income": 1091,
+          "expense": 207,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-02": {
+          "day": 30,
+          "month": 2,
+          "year": 2021,
+          "income": 1521,
+          "expense": 542,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-14": {
+          "day": 14,
+          "month": 3,
+          "year": 2021,
+          "income": 834,
+          "expense": 625,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-17": {
+          "day": 17,
+          "month": 5,
+          "year": 2021,
+          "income": 785,
+          "expense": 704,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-08": {
+          "day": 8,
+          "month": 7,
+          "year": 2021,
+          "income": 1339,
+          "expense": 177,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-23": {
+          "day": 23,
+          "month": 8,
+          "year": 2021,
+          "income": 1324,
+          "expense": 781,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-16": {
+          "day": 16,
+          "month": 9,
+          "year": 2021,
+          "income": 1633,
+          "expense": 731,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-18": {
+          "day": 18,
+          "month": 10,
+          "year": 2021,
+          "income": 1483,
+          "expense": 127,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-23": {
+          "day": 23,
+          "month": 10,
+          "year": 2021,
+          "income": 1899,
+          "expense": 234,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-04": {
+          "day": 4,
+          "month": 11,
+          "year": 2021,
+          "income": 1269,
+          "expense": 394,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-22": {
+          "day": 22,
+          "month": 3,
+          "year": 2021,
+          "income": 201,
+          "expense": 215,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-30": {
+          "day": 30,
+          "month": 5,
+          "year": 2021,
+          "income": 812,
+          "expense": 381,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-20": {
+          "day": 20,
+          "month": 4,
+          "year": 2021,
+          "income": 812,
+          "expense": 313,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-29": {
+          "day": 29,
+          "month": 11,
+          "year": 2021,
+          "income": 638,
+          "expense": 471,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-28": {
+          "day": 28,
+          "month": 6,
+          "year": 2021,
+          "income": 965,
+          "expense": 484,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-03": {
+          "day": 3,
+          "month": 3,
+          "year": 2021,
+          "income": 634,
+          "expense": 159,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-28": {
+          "day": 28,
+          "month": 5,
+          "year": 2021,
+          "income": 996,
+          "expense": 297,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-15": {
+          "day": 15,
+          "month": 6,
+          "year": 2021,
+          "income": 1103,
+          "expense": 531,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-02": {
+          "day": 2,
+          "month": 11,
+          "year": 2021,
+          "income": 324,
+          "expense": 283,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-21": {
+          "day": 21,
+          "month": 11,
+          "year": 2021,
+          "income": 944,
+          "expense": 561,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-14": {
+          "day": 14,
+          "month": 2,
+          "year": 2021,
+          "income": 536,
+          "expense": 30,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-28": {
+          "day": 28,
+          "month": 12,
+          "year": 2021,
+          "income": 921,
+          "expense": 211,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-07": {
+          "day": 7,
+          "month": 1,
+          "year": 2021,
+          "income": 529,
+          "expense": 236,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-20": {
+          "day": 20,
+          "month": 10,
+          "year": 2021,
+          "income": 974,
+          "expense": 173,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-29": {
+          "day": 29,
+          "month": 9,
+          "year": 2021,
+          "income": 755,
+          "expense": 254,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-10": {
+          "day": 10,
+          "month": 12,
+          "year": 2021,
+          "income": 965,
+          "expense": 299,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-26": {
+          "day": 26,
+          "month": 5,
+          "year": 2021,
+          "income": 1587,
+          "expense": 49,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-11": {
+          "day": 11,
+          "month": 5,
+          "year": 2021,
+          "income": 963,
+          "expense": 138,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-21": {
+          "day": 21,
+          "month": 6,
+          "year": 2021,
+          "income": 487,
+          "expense": 241,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-24": {
+          "day": 24,
+          "month": 2,
+          "year": 2021,
+          "income": 799,
+          "expense": 325,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-21": {
+          "day": 21,
+          "month": 8,
+          "year": 2021,
+          "income": 430,
+          "expense": 364,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-12": {
+          "day": 12,
+          "month": 11,
+          "year": 2021,
+          "income": 736,
+          "expense": 33,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-03": {
+          "day": 3,
+          "month": 4,
+          "year": 2021,
+          "income": 835,
+          "expense": 213,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-03": {
+          "day": 3,
+          "month": 8,
+          "year": 2021,
+          "income": 408,
+          "expense": 483,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-19": {
+          "day": 19,
+          "month": 10,
+          "year": 2021,
+          "income": 1053,
+          "expense": 382,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-09": {
+          "day": 9,
+          "month": 12,
+          "year": 2021,
+          "income": 621,
+          "expense": 287,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-27": {
+          "day": 27,
+          "month": 3,
+          "year": 2021,
+          "income": 194,
+          "expense": 35,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-27": {
+          "day": 27,
+          "month": 12,
+          "year": 2021,
+          "income": 344,
+          "expense": 921,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-26": {
+          "day": 26,
+          "month": 9,
+          "year": 2021,
+          "income": 1672,
+          "expense": 587,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-11": {
+          "day": 11,
+          "month": 8,
+          "year": 2021,
+          "income": 384,
+          "expense": 225,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-18": {
+          "day": 18,
+          "month": 7,
+          "year": 2021,
+          "income": 656,
+          "expense": 199,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-29": {
+          "day": 29,
+          "month": 5,
+          "year": 2021,
+          "income": 613,
+          "expense": 54,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-05": {
+          "day": 5,
+          "month": 9,
+          "year": 2021,
+          "income": 588,
+          "expense": 266,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-07": {
+          "day": 7,
+          "month": 6,
+          "year": 2021,
+          "income": 471,
+          "expense": 72,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-07": {
+          "day": 7,
+          "month": 3,
+          "year": 2021,
+          "income": 272,
+          "expense": 369,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-24": {
+          "day": 24,
+          "month": 7,
+          "year": 2021,
+          "income": 598,
+          "expense": 347,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-28": {
+          "day": 28,
+          "month": 9,
+          "year": 2021,
+          "income": 953,
+          "expense": 355,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-22": {
+          "day": 22,
+          "month": 6,
+          "year": 2021,
+          "income": 75,
+          "expense": 213,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-19": {
+          "day": 19,
+          "month": 12,
+          "year": 2021,
+          "income": 869,
+          "expense": 108,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-17": {
+          "day": 17,
+          "month": 2,
+          "year": 2021,
+          "income": 1534,
+          "expense": 578,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-28": {
+          "day": 28,
+          "month": 8,
+          "year": 2021,
+          "income": 364,
+          "expense": 51,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-02": {
+          "day": 2,
+          "month": 5,
+          "year": 2021,
+          "income": 33,
+          "expense": 250,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-13": {
+          "day": 13,
+          "month": 5,
+          "year": 2021,
+          "income": 1518,
+          "expense": 442,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-06": {
+          "day": 6,
+          "month": 1,
+          "year": 2021,
+          "income": 828,
+          "expense": 267,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-24": {
+          "day": 24,
+          "month": 4,
+          "year": 2021,
+          "income": 501,
+          "expense": 490,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-17": {
+          "day": 17,
+          "month": 7,
+          "year": 2021,
+          "income": 567,
+          "expense": 155,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-21": {
+          "day": 21,
+          "month": 5,
+          "year": 2021,
+          "income": 860,
+          "expense": 362,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-26": {
+          "day": 26,
+          "month": 12,
+          "year": 2021,
+          "income": 459,
+          "expense": 393,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-24": {
+          "day": 24,
+          "month": 5,
+          "year": 2021,
+          "income": 68,
+          "expense": 282,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-12": {
+          "day": 12,
+          "month": 2,
+          "year": 2021,
+          "income": 259,
+          "expense": 157,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-08": {
+          "day": 8,
+          "month": 1,
+          "year": 2021,
+          "income": 737,
+          "expense": 207,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-10": {
+          "day": 10,
+          "month": 5,
+          "year": 2021,
+          "income": 414,
+          "expense": 441,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-06": {
+          "day": 6,
+          "month": 5,
+          "year": 2021,
+          "income": 621,
+          "expense": 493,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-01": {
+          "day": 1,
+          "month": 8,
+          "year": 2021,
+          "income": 415,
+          "expense": 244,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-08": {
+          "day": 8,
+          "month": 5,
+          "year": 2021,
+          "income": 643,
+          "expense": 80,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-05-25": {
+          "day": 25,
+          "month": 5,
+          "year": 2021,
+          "income": 268,
+          "expense": 16,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-23": {
+          "day": 23,
+          "month": 7,
+          "year": 2021,
+          "income": 728,
+          "expense": 173,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-11": {
+          "day": 11,
+          "month": 11,
+          "year": 2021,
+          "income": 71,
+          "expense": 265,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-04": {
+          "day": 4,
+          "month": 6,
+          "year": 2021,
+          "income": 664,
+          "expense": 77,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-25": {
+          "day": 25,
+          "month": 3,
+          "year": 2021,
+          "income": 454,
+          "expense": 162,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-10-24": {
+          "day": 24,
+          "month": 10,
+          "year": 2021,
+          "income": 1149,
+          "expense": 550,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-22": {
+          "day": 22,
+          "month": 7,
+          "year": 2021,
+          "income": 727,
+          "expense": 163,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-12-12": {
+          "day": 12,
+          "month": 12,
+          "year": 2021,
+          "income": 347,
+          "expense": 81,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-01-28": {
+          "day": 28,
+          "month": 1,
+          "year": 2021,
+          "income": 147,
+          "expense": 253,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-10": {
+          "day": 10,
+          "month": 3,
+          "year": 2021,
+          "income": 382,
+          "expense": 420,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-14": {
+          "day": 14,
+          "month": 4,
+          "year": 2021,
+          "income": 505,
+          "expense": 75,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-20": {
+          "day": 20,
+          "month": 9,
+          "year": 2021,
+          "income": 147,
+          "expense": 346,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-01": {
+          "day": 1,
+          "month": 4,
+          "year": 2021,
+          "income": 350,
+          "expense": 83,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-03": {
+          "day": 3,
+          "month": 7,
+          "year": 2021,
+          "income": 67,
+          "expense": 57,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-15": {
+          "day": 15,
+          "month": 7,
+          "year": 2021,
+          "income": 753,
+          "expense": 168,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-21": {
+          "day": 21,
+          "month": 4,
+          "year": 2021,
+          "income": 770,
+          "expense": 403,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-24": {
+          "day": 24,
+          "month": 6,
+          "year": 2021,
+          "income": 878,
+          "expense": 310,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-04-18": {
+          "day": 18,
+          "month": 4,
+          "year": 2021,
+          "income": 452,
+          "expense": 193,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-02-19": {
+          "day": 19,
+          "month": 2,
+          "year": 2021,
+          "income": 211,
+          "expense": 155,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-06-16": {
+          "day": 16,
+          "month": 6,
+          "year": 2021,
+          "income": 959,
+          "expense": 395,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-06": {
+          "day": 6,
+          "month": 9,
+          "year": 2021,
+          "income": 1692,
+          "expense": 309,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-01": {
+          "day": 29,
+          "month": 2,
+          "year": 2021,
+          "income": 685,
+          "expense": 215,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-04": {
+          "day": 4,
+          "month": 7,
+          "year": 2021,
+          "income": 225,
+          "expense": 361,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-02": {
+          "day": 2,
+          "month": 7,
+          "year": 2021,
+          "income": 839,
+          "expense": 111,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-11-26": {
+          "day": 26,
+          "month": 11,
+          "year": 2021,
+          "income": 925,
+          "expense": 323,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-08-22": {
+          "day": 22,
+          "month": 8,
+          "year": 2021,
+          "income": 867,
+          "expense": 203,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-03-30": {
+          "day": 30,
+          "month": 3,
+          "year": 2021,
+          "income": 873,
+          "expense": 370,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-07-21": {
+          "day": 21,
+          "month": 7,
+          "year": 2021,
+          "income": 327,
+          "expense": 436,
+          "dateAdded": "2021-01-11"
+        },
+        "2021-09-18": {
+          "day": 18,
+          "month": 9,
+          "year": 2021,
+          "income": 350,
+          "expense": 275,
+          "dateAdded": "2021-01-11"
+        }
+      },
+      "login": "d",
+      "password": "d"
+    },
+    "pawel": {
+      "treeMapUserData": {},
+      "login": "pawel",
+      "password": "pawel"
+    },
+    "h": {
+      "login": "h",
+      "password": "h"
+    }
+  }
+}

@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.RowConstraints?>
 
-<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" fx:controller="sample.Controller" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.registerFormController">
   <columnConstraints>
       <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
     <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -24,12 +24,12 @@
       <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
   </rowConstraints>
    <children>
-      <TextField promptText="username" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-      <TextField promptText="password" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <TextField fx:id="usernameField" promptText="username" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <TextField fx:id="passwordField" promptText="password" GridPane.columnIndex="1" GridPane.rowIndex="2" />
       <TextField promptText="first name" GridPane.columnIndex="1" GridPane.rowIndex="3" />
       <TextField promptText="sex" GridPane.columnIndex="1" GridPane.rowIndex="6" />
       <TextField promptText="age" GridPane.columnIndex="1" GridPane.rowIndex="5" />
       <TextField promptText="last name" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-      <Button fx:id="registerBtn" mnemonicParsing="false" onAction="#pressBtn" prefHeight="25.0" prefWidth="226.0" text="Register" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+      <Button fx:id="registerBtn" mnemonicParsing="false" onAction="#register" prefHeight="25.0" prefWidth="226.0" text="Register" GridPane.columnIndex="1" GridPane.rowIndex="7" />
    </children>
 </GridPane>
