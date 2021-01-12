@@ -79,8 +79,11 @@ public class Model {
             }
             return false;
     }
-    public void modelRegister(String username, String password, List<ObjectToAdd> list) throws IOException {
-        database.registerUser(username, password, list);
+    public boolean modelRegister(String username, String password, List<ObjectToAdd> list) throws IOException {
+        if(database.registerUser(username, password, list)) {
+            return true;
+        }
+        return false;
     }
 
     public void readDataFromFile() throws IOException {

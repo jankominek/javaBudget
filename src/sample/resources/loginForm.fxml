@@ -25,5 +25,6 @@
       <TextField fx:id="loginField" promptText="login" GridPane.columnIndex="1" GridPane.rowIndex="2" />
       <PasswordField fx:id="passwordField" promptText="password" GridPane.columnIndex="1" GridPane.rowIndex="3" />
       <Button fx:id="logInBtn" alignment="CENTER" mnemonicParsing="false" onAction="#logInUser" prefHeight="15.0" prefWidth="200.0" text="Log in" textAlignment="CENTER" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      <Button fx:id="backBtn" mnemonicParsing="false" onAction="#backToStartWindow" text="Back" />
    </children>
 </GridPane>

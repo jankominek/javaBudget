@@ -8,7 +8,7 @@ import java.util.TreeMap;
 public class User {
 
     //List<ObjectToAdd> userData = new ArrayList<ObjectToAdd>();
-    Map<String, ObjectToAdd> treeMapUserData = new TreeMap<String, ObjectToAdd>();
+    Map<String, ObjectToAdd> treeMapUserData = new TreeMap<String, ObjectToAdd>(String.CASE_INSENSITIVE_ORDER);
     private String login;
     private String password;
 

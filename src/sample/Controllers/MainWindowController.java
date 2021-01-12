@@ -17,7 +17,6 @@ public class MainWindowController {
     @FXML
     Button statisticsBtn, addBtn, generateDataBtn, tableBtn;
 
-    Habitant habitant = new Habitant();
 
     public void showStatisticsField(ActionEvent event) throws Exception{
 

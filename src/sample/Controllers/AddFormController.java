@@ -1,18 +1,20 @@
 package sample.Controllers;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import sample.model.Habitant;
 import sample.model.Model;
 import sample.model.ObjectToAdd;
 
+import java.net.URL;
+import java.util.ResourceBundle;
+
 public class AddFormController {
 
     @FXML Button addBtn, backBtn;
     @FXML TextField day, month, year, income, expense;
-
-    Habitant habitant = new Habitant();
 
     public void add() throws Exception{
         System.out.println("add button");
@@ -30,4 +32,6 @@ public class AddFormController {
         BackToMainWindowController backToMainWindowController = new BackToMainWindowController();
         backToMainWindowController.backToMainWindow(backBtn);
     }
+
+
 }

@@ -19,7 +19,7 @@ public class Database {
         }
         return false;
     }
-    public void registerUser(String username, String password, List<ObjectToAdd> list) throws IOException {
+    public boolean registerUser(String username, String password, List<ObjectToAdd> list) throws IOException {
         if(this.checkIfUserExist(username)){
             User user = new User();
             user.setLogin(username);
@@ -27,9 +27,9 @@ public class Database {
             user.setTreeMapUserData(null);
             usersObjects.put(username, user);
             Model.getInstance().saveDataToFile();
-        }else{
-            System.out.println("This username is already taken!");
+            return true;
         }
+        return false;
     }
 
     private boolean checkIfUserExist(String username){

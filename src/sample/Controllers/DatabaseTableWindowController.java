@@ -4,6 +4,7 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.control.Button;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
@@ -27,10 +28,15 @@ public class DatabaseTableWindowController implements Initializable {
     private TableColumn<TableViewObject, Integer> expenseId;
     @FXML
     private TableColumn<TableViewObject, String> dateAddedId;
+    @FXML
+    Button backBtn;
 
     ObservableList<TableViewObject> list = FXCollections.observableArrayList();
 
-
+    public void back() throws Exception {
+        BackToMainWindowController backToMainWindowController = new BackToMainWindowController();
+        backToMainWindowController.backToMainWindow(backBtn);
+    }
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         Map<String, ObjectToAdd> usermap = new TreeMap<String, ObjectToAdd>();

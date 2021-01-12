@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="120.0" prefWidth="297.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.BadRegisterAlertController">
+    <children>
+        <Button fx:id="okButton" layoutX="133.0" layoutY="67.0" mnemonicParsing="false" onAction="#backToRegisterForm" text="Ok" />
+        <Label layoutX="70.0" layoutY="43.0" text="Error :  user is already taken" />
+    </children>
+</AnchorPane>
+

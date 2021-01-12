@@ -31,5 +31,6 @@
       <TextField promptText="age" GridPane.columnIndex="1" GridPane.rowIndex="5" />
       <TextField promptText="last name" GridPane.columnIndex="1" GridPane.rowIndex="4" />
       <Button fx:id="registerBtn" mnemonicParsing="false" onAction="#register" prefHeight="25.0" prefWidth="226.0" text="Register" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+      <Button fx:id="backBtn" mnemonicParsing="false" onAction="#backToStartWindow" text="Back" />
    </children>
 </GridPane>
